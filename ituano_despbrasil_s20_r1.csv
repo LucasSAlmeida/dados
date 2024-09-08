@@ -1,0 +1,294 @@
+time,posicao,evento,x,y,x2,y2
+Casa,ZGE,Interceptação,72,66,72,66
+Casa,VOLE,Passe,56,67,51,75
+Casa,GOL,Passe,97,58,97,44
+Casa,VOLC,Passe,64,58,59,91
+Casa,VOLE,Passe,25,68,14,27
+Casa,PD,Entrada no Terço Final,12,24,3,32
+Casa,LE,Interceptação,55,83,55,83
+Casa,VOLC,Passe,62,58,54,76
+Casa,VOLE,Passe,54,83,60,94
+Casa,GOL,Passe,89,60,69,13
+Casa,VOLC,Passe,68,54,64,90
+Casa,ZGE,Duelo Defensivo,97,74,97,74
+Casa,MO,Passe,88,5,64,8
+Casa,PD,Entrada no Terço Final,63,8,34,39
+Casa,PD,Entrada no Terço Final,32,7,12,9
+Casa,VOLC,Passe,65,46,68,63
+Casa,VOLC,Passe,65,51,56,87
+Casa,VOLC,Passe,51,71,16,8
+Casa,LD,Duelo Defensivo,61,7,60,8
+Casa,ZGD,Interceptação,88,13,89,13
+Casa,VOLE,Interceptação,68,52,68,52
+Casa,VOLE,Recuperação,86,54,86,54
+Casa,GOL,Passe,93,45,79,89
+Casa,VOLE,Passe,57,85,59,94
+Casa,PE,Entrada no Terço Final,32,93,24,86
+Casa,VOLC,Duelo Defensivo,34,64,34,64
+Casa,VOLE,Duelo Defensivo,34,73,34,73
+Casa,VOLC,Passe,45,49,48,20
+Casa,VOLC,Passe,56,61,44,82
+Casa,VOLC,Passe,49,62,42,28
+Casa,MO,Passe,40,23,29,4
+Casa,VOLE,Passe,35,41,36,65
+Casa,VOLE,Passe,43,58,5,19
+Casa,ZGE,Interceptação,47,87,46,87
+Casa,LE,Duelo Defensivo,58,87,58,87
+Casa,LE,Duelo Defensivo,63,91,63,91
+Casa,VOLE,Interceptação,58,93,58,93
+Casa,VOLE,Passe,57,91,57,99
+Casa,LE,Duelo Defensivo,74,90,74,91
+Casa,VOLE,Duelo Defensivo,64,93,64,93
+Casa,ZGE,Recuperação,82,64,81,64
+Casa,VOLC,Passe,66,59,70,88
+Casa,LD,Interceptação,84,12,85,12
+Casa,PD,Entrada no Terço Final,63,6,45,7
+Casa,VOLE,Passe,66,90,32,99
+Casa,GOL,Passe,90,47,87,49
+Casa,VOLC,Passe,80,53,58,8
+Casa,ZGE,Duelo Defensivo,45,11,45,11
+Casa,LD,Duelo Defensivo,45,10,45,10
+Casa,ZGD,Duelo Defensivo,59,9,59,8
+Casa,VOLC,Duelo Defensivo,84,7,83,4
+Casa,ZGE,Interceptação,100,60,100,59
+Casa,ZGE,Interceptação,95,59,95,59
+Casa,ZGD,Interceptação,65,26,65,26
+Casa,VOLC,Passe,46,83,64,42
+Casa,VOLE,Passe,46,72,52,86
+Casa,VOLE,Recuperação,85,53,85,53
+Casa,GOL,Passe,91,53,76,5
+Casa,LD,Duelo Defensivo,83,23,82,23
+Casa,VOLE,Duelo Defensivo,81,26,81,26
+Casa,VOLC,Passe,37,49,47,16
+Casa,PD,Entrada no Terço Final,27,6,19,19
+Casa,VOLE,Passe,66,88,86,74
+Casa,LD,Recuperação,82,28,81,28
+Casa,MO,Passe,63,7,45,6
+Casa,PD,Entrada no Terço Final,48,6,13,7
+Casa,VOLE,Passe,41,20,34,25
+Casa,MO,Passe,35,32,31,23
+Casa,VOLC,Passe,22,12,26,5
+Casa,PE,Entrada no Terço Final,38,93,25,92
+Casa,ZGD,Recuperação,54,43,54,43
+Casa,VOLC,Passe,40,25,36,6
+Casa,LD,Passe,37,7,5,62
+Casa,VOLE,Recuperação,27,83,27,83
+Casa,PE,Entrada no Terço Final,24,83,24,75
+Casa,VOLE,Duelo Defensivo,32,68,31,67
+Casa,LD,Duelo Defensivo,85,9,86,8
+Casa,VOLC,Duelo Defensivo,86,6,86,6
+Casa,ZGD,Recuperação,95,26,97,26
+Casa,LD,Duelo Defensivo,91,16,91,17
+Casa,ZGD,Duelo Defensivo,91,44,91,43
+Visitante,ZGD,Chute,85,32,100,51
+Visitante,GOL,Passe,91,43,85,11
+Visitante,PD,Entrada no Terço Final,58,6,51,15
+Visitante,VOLC,Passe,57,47,47,92
+Visitante,VOLC,Passe,46,60,56,9
+Visitante,VOLC,Passe,38,59,33,34
+Visitante,VOLE,Passe,36,36,27,56
+Visitante,VOLE,Recuperação,30,49,30,49
+Visitante,VOLE,Passe,32,53,25,53
+Visitante,MO,Recuperação,58,39,57,39
+Visitante,GOL,Passe,90,53,83,80
+Visitante,VOLC,Passe,66,51,58,11
+Visitante,VOLC,Passe,48,48,37,47
+Visitante,ZGE,Recuperação,84,91,84,91
+Visitante,GOL,Passe,96,66,80,50
+Visitante,VOLC,Passe,68,43,59,8
+Visitante,MO,Passe,53,45,62,38
+Visitante,VOLC,Passe,62,40,90,55
+Casa,GOL,Passe,88,51,79,42
+Casa,VOLC,Passe,69,51,44,9
+Casa,GOL,Passe,89,22,63,6
+Casa,VOLC,Passe,64,52,55,82
+Casa,ZGE,Duelo Defensivo,57,73,57,73
+Casa,VOLE,Duelo Defensivo,86,95,86,95
+Casa,ZGD,Interceptação,94,38,94,38
+Casa,PD,Entrada no Terço Final,85,32,60,29
+Casa,VOLE,Duelo Defensivo,69,35,69,35
+Casa,LD,Recuperação,94,33,94,33
+Casa,LE,Interceptação,84,72,84,72
+Casa,VOLC,Passe,77,58,76,18
+Casa,VOLC,Passe,64,50,51,88
+Casa,LE,Duelo Defensivo,62,92,62,92
+Casa,VOLE,Duelo Defensivo,56,91,56,91
+Casa,GOL,Passe,96,38,96,38
+Casa,VOLC,Passe,67,59,67,94
+Casa,GOL,Passe,90,42,68,0
+Casa,MO,Passe,56,42,19,91
+Casa,VOLE,Passe,26,88,26,68
+Casa,MO,Passe,24,75,24,90
+Casa,VOLE,Passe,31,82,22,78
+Casa,MO,Passe,41,78,53,15
+Casa,PD,Entrada no Terço Final,28,22,20,37
+Casa,PD,Chute,20,37,11,37
+Casa,VOLE,Recuperação,47,55,47,55
+Casa,VOLE,Passe,31,78,41,68
+Casa,VOLE,Passe,25,86,45,17
+Casa,ZGD,Interceptação,63,34,63,34
+Casa,ZGE,Interceptação,82,50,82,50
+Casa,GOL,Passe,92,52,87,74
+Casa,VOLC,Passe,64,59,60,5
+Casa,VOLC,Chute,25,48,4,48
+Casa,LD,Duelo Defensivo,92,18,92,18
+Casa,GOL,Passe,99,38,39,35
+Casa,LE,Duelo Defensivo,59,91,59,91
+Casa,VOLE,Duelo Defensivo,60,79,60,79
+Casa,VOLE,Passe,64,77,63,57
+Casa,VOLC,Passe,59,63,62,74
+Casa,VOLE,Passe,50,73,55,56
+Casa,LD,Interceptação,93,34,93,34
+Casa,ZGD,Duelo Defensivo,85,29,85,29
+Visitante,ZGD,Gol,84,28,101,53
+Casa,VOLC,Passe,73,41,58,10
+Casa,VOLC,Passe,57,42,48,75
+Casa,VOLE,Passe,39,66,26,76
+Casa,ZGD,Gol,9,41,4,49
+Casa,MO,Assistência,26,66,6,38
+Visitante,VOLC,Gol,44,78,44,78
+Visitante,ZGD,Interceptação,22,98,22,99
+Visitante,VOLC,Duelo Defensivo,59,98,59,99
+Visitante,LD,Recuperação,17,80,17,78
+Visitante,VOLC,Duelo Defensivo,20,37,20,38
+Visitante,VOLC,Duelo Defensivo,20,53,20,53
+Visitante,LD,Recuperação,7,82,7,82
+Visitante,PD,Entrada no Terço Final,35,89,47,91
+Visitante,CENT,Passe,81,86,82,67
+Visitante,VOLC,Recuperação,59,28,60,28
+Visitante,ZGE,Chute,97,62,97,61
+Visitante,VOLC,Duelo Defensivo,57,18,58,17
+Visitante,VOLC,Recuperação,46,52,46,52
+Visitante,VOLC,Passe,46,54,71,40
+Visitante,ZGD,Interceptação,37,53,37,53
+Visitante,LD,Interceptação,20,66,20,66
+Visitante,VOLC,Recuperação,24,62,24,62
+Visitante,VOLC,Passe,24,61,20,94
+Visitante,VOLC,Passe,28,49,31,16
+Visitante,VOLC,Passe,19,40,46,15
+Visitante,LE,Interceptação,13,33,13,32
+Visitante,GOL,Passe,4,57,6,60
+Visitante,VOLC,Passe,39,14,44,8
+Visitante,LE,Duelo Defensivo,7,30,7,28
+Visitante,MO,Passe,50,60,86,9
+Visitante,PE,Entrada no Terço Final,86,6,86,41
+Visitante,MO,Chute,87,60,101,50
+Visitante,PE,Passe,86,44,87,61
+Visitante,LE,Interceptação,64,6,64,8
+Visitante,LE,Interceptação,23,81,23,81
+Visitante,VOLE,Recuperação,22,98,22,98
+Visitante,ZGD,Interceptação,39,97,39,96
+Visitante,LD,Duelo Defensivo,44,8,44,6
+Visitante,LD,Duelo Defensivo,43,10,43,9
+Visitante,VOLC,Passe,27,42,23,83
+Visitante,VOLC,Interceptação,20,88,20,88
+Visitante,VOLC,Duelo Defensivo,46,93,46,92
+Visitante,GOL,Passe,3,67,15,67
+Visitante,MO,Passe,63,79,47,72
+Visitante,VOLC,Passe,66,18,62,36
+Visitante,MO,Passe,61,59,61,59
+Visitante,MO,Passe,66,75,101,52
+Visitante,GOL,Passe,29,56,35,65
+Visitante,VOLC,Passe,55,43,60,9
+Visitante,VOLC,Passe,45,12,60,7
+Visitante,GOL,Passe,5,52,7,52
+Visitante,VOLC,Passe,22,53,39,87
+Visitante,GOL,Passe,4,51,7,52
+Visitante,VOLC,Passe,22,54,44,83
+Visitante,LD,Passe,61,94,97,45
+Visitante,ZGE,Interceptação,17,80,17,79
+Visitante,MO,Passe,70,93,68,100
+Visitante,VOLC,Passe,63,84,64,91
+Visitante,VOLC,Passe,40,85,37,99
+Visitante,VOLC,Passe,36,92,39,44
+Visitante,LD,Interceptação,44,32,44,32
+Visitante,GOL,Passe,11,36,24,79
+Visitante,GOL,Passe,15,49,33,6
+Visitante,VOLE,Passe,58,31,56,60
+Visitante,MO,Passe,48,71,42,84
+Visitante,MO,Passe,64,67,91,73
+Visitante,LD,Interceptação,23,82,24,82
+Visitante,VOLE,Recuperação,39,69,39,67
+Visitante,ZGD,Interceptação,25,89,25,90
+Visitante,VOLC,Passe,32,83,17,94
+Visitante,VOLC,Passe,29,66,98,33
+Visitante,GOL,Passe,9,56,23,42
+Visitante,LE,Chute,88,27,100,64
+Visitante,VOLE,Passe,55,43,55,43
+Visitante,PD,Entrada no Terço Final,76,83,84,79
+Visitante,PD,Chute,83,79,100,59
+Visitante,ZGD,Chute,96,58,96,58
+Visitante,VOLE,Interceptação,54,41,54,41
+Visitante,ZGD,Interceptação,44,94,43,95
+Visitante,VOLC,Interceptação,28,93,28,93
+Visitante,GOL,Passe,8,63,11,40
+Visitante,VOLC,Passe,29,25,24,54
+Visitante,VOLE,Passe,59,24,35,93
+Visitante,ZGD,Interceptação,21,84,21,85
+Visitante,GOL,Passe,5,65,4,38
+Visitante,GOL,Gol,11,59,2,58
+Visitante,ZGD,Interceptação,32,73,33,73
+Visitante,VOLC,Duelo Defensivo,41,24,41,24
+Visitante,PD,Entrada no Terço Final,55,64,55,47
+Visitante,VOLE,Passe,63,43,82,8
+Visitante,MO,Chute,80,46,86,46
+Visitante,VOLC,Chute,61,60,100,45
+Visitante,LE,Passe,43,8,92,42
+Casa,VOLC,Passe,38,48,40,92
+Casa,GOL,Passe,11,55,22,38
+Casa,VOLC,Passe,32,47,44,7
+Casa,VOLC,Passe,40,38,35,93
+Casa,VOLC,Passe,46,48,49,4
+Casa,VOLC,Passe,50,39,55,83
+Casa,VOLC,Passe,53,58,67,72
+Casa,MO,Passe,73,82,90,86
+Casa,MO,Passe,82,77,100,37
+Casa,CENT,Chute,100,44,100,44
+Casa,ZGE,Duelo Defensivo,59,23,59,23
+Casa,ZGE,Interceptação,13,21,13,21
+Casa,MO,Passe,69,29,75,8
+Casa,VOLE,Duelo Defensivo,60,30,60,30
+Casa,VOLE,Recuperação,60,26,60,26
+Casa,VOLE,Passe,58,26,67,7
+Casa,VOLE,Passe,64,28,79,25
+Casa,VOLC,Recuperação,49,42,49,42
+Casa,ZGE,Duelo Defensivo,56,45,56,45
+Casa,VOLC,Duelo Defensivo,49,43,49,43
+Casa,VOLC,Recuperação,45,34,45,34
+Casa,VOLC,Passe,44,28,58,5
+Casa,VOLC,Passe,49,42,59,84
+Casa,VOLC,Passe,36,50,44,95
+Casa,VOLC,Passe,45,68,70,65
+Casa,CENT,Passe,65,45,63,30
+Casa,VOLE,Passe,66,34,65,56
+Casa,MO,Passe,64,60,56,83
+Casa,MO,Passe,54,69,58,24
+Casa,VOLC,Passe,55,34,47,74
+Casa,PD,Entrada no Terço Final,95,86,101,68
+Casa,PD,Passe,99,67,99,65
+Casa,PD,Passe,97,70,97,40
+Casa,VOLE,Recuperação,81,28,81,28
+Casa,ZGE,Recuperação,27,6,27,6
+Casa,ZGE,Passe,23,4,6,26
+Casa,GOL,Passe,12,50,21,59
+Casa,VOLC,Passe,33,53,44,8
+Casa,VOLC,Passe,44,39,58,4
+Casa,VOLC,Passe,56,23,79,72
+Casa,VOLE,Passe,75,56,82,37
+Casa,LE,Passe,84,3,99,58
+Casa,VOLE,Recuperação,76,51,76,51
+Casa,VOLC,Interceptação,41,92,41,92
+Casa,LD,Interceptação,20,88,20,88
+Casa,ZGD,Recuperação,21,93,21,93
+Casa,PD,Entrada no Terço Final,51,97,61,85
+Casa,LD,Recuperação,26,74,26,74
+Casa,MO,Passe,55,86,71,94
+Casa,VOLE,Passe,42,68,31,84
+Casa,VOLC,Passe,39,45,53,3
+Casa,VOLC,Passe,54,41,86,69
+Casa,VOLC,Recuperação,66,57,66,57
+Casa,VOLC,Passe,65,49,73,64
+Casa,VOLE,Passe,70,74,83,67
+Casa,GOL,Passe,25,48,47,70
+Casa,VOLC,Passe,57,58,93,37
+Casa,ZGE,Interceptação,4,31,4,31
