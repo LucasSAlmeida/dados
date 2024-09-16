@@ -4,18 +4,9 @@ Casa,1,Passe,4,47,13,58,ituano x desp.brasil-r1
 Casa,1,Passe,2,47,22,59,ituano x desp.brasil-r1
 Casa,1,Passe,13,48,18,49,ituano x desp.brasil-r1
 Casa,1,Passe,10,61,16,69,ituano x desp.brasil-r1
-Casa,3,Passe,25,84,18,66,ituano x desp.brasil-r1
-Casa,3,Passe,26,84,84,83,ituano x desp.brasil-r1
-Casa,3,Passe,26,85,28,62,ituano x desp.brasil-r1
-Casa,3,Passe,28,89,24,59,ituano x desp.brasil-r1
-Casa,3,Passe,28,88,40,62,ituano x desp.brasil-r1
-Casa,3,Passe,31,89,81,75,ituano x desp.brasil-r1
-Casa,3,Passe,32,85,80,94,ituano x desp.brasil-r1
-Casa,3,Passe,29,81,73,89,ituano x desp.brasil-r1
 Casa,4,Passe,20,29,29,72,ituano x desp.brasil-r1
 Casa,4,Passe,20,28,41,11,ituano x desp.brasil-r1
 Casa,4,Passe,21,28,76,15,ituano x desp.brasil-r1
-Casa,4,Passe,22,26,82,25,ituano x desp.brasil-r1
 Casa,4,Passe,25,23,47,45,ituano x desp.brasil-r1
 Casa,4,Passe,26,31,73,27,ituano x desp.brasil-r1
 Casa,4,Passe,25,28,26,4,ituano x desp.brasil-r1
@@ -31,26 +22,14 @@ Casa,5,Passe,27,45,46,28,ituano x desp.brasil-r1
 Casa,5,Passe,26,45,35,19,ituano x desp.brasil-r1
 Casa,5,Passe,28,41,18,27,ituano x desp.brasil-r1
 Casa,5,Passe,28,46,12,30,ituano x desp.brasil-r1
-Casa,10,Gol,87,50,87,50,ituano x desp.brasil-r1
 Casa,10,Passe,77,47,67,32,ituano x desp.brasil-r1
 Casa,10,Passe,79,28,68,52,ituano x desp.brasil-r1
 Casa,10,Passe,56,38,79,57,ituano x desp.brasil-r1
 Casa,10,Passe,70,57,29,68,ituano x desp.brasil-r1
 Casa,10,Passe,71,45,52,25,ituano x desp.brasil-r1
 Casa,10,Passe,66,49,44,50,ituano x desp.brasil-r1
-Casa,10,Passe,65,45,81,17,ituano x desp.brasil-r1
-Casa,10,Passe,68,42,91,40,ituano x desp.brasil-r1
 Casa,10,Passe,65,49,79,72,ituano x desp.brasil-r1
 Casa,10,Passe,69,50,37,76,ituano x desp.brasil-r1
-Casa,10,Passe,69,53,85,76,ituano x desp.brasil-r1
-Casa,10,Passe,75,49,93,38,ituano x desp.brasil-r1
-Casa,10,Passe,75,38,84,18,ituano x desp.brasil-r1
-Casa,11,Entrada no Terço Final,59,45,89,42,ituano x desp.brasil-r1
-Casa,11,Passe,88,88,93,36,ituano x desp.brasil-r1
-Casa,11,Passe,87,89,88,40,ituano x desp.brasil-r1
-Casa,11,Passe,88,81,74,36,ituano x desp.brasil-r1
-Casa,8,Passe,37,25,81,6,ituano x sfera-r2
-Casa,8,Passe,45,32,81,24,ituano x sfera-r2
 Casa,8,Passe,47,41,64,42,ituano x sfera-r2
 Casa,8,Passe,38,24,37,20,ituano x sfera-r2
 Casa,8,Passe,42,52,26,50,ituano x sfera-r2
@@ -58,7 +37,6 @@ Casa,8,Interceptação,27,63,27,62,ituano x sfera-r2
 Casa,8,Interceptação,34,28,34,28,ituano x sfera-r2
 Casa,8,Interceptação,78,17,78,17,ituano x sfera-r2
 Casa,8,Interceptação,64,73,64,76,ituano x sfera-r2
-Casa,8,Interceptação,30,82,29,82,ituano x sfera-r2
 Casa,8,Interceptação,73,42,73,42,ituano x sfera-r2
 Casa,5,Interceptação,33,48,33,47,ituano x sfera-r2
 Casa,5,Interceptação,38,19,38,19,ituano x sfera-r2
@@ -74,7 +52,6 @@ Casa,4,Interceptação,21,21,21,23,ituano x sfera-r2
 Casa,4,Interceptação,16,52,20,76,ituano x sfera-r2
 Casa,4,Interceptação,36,65,57,49,ituano x sfera-r2
 Casa,4,Interceptação,26,23,26,23,ituano x sfera-r2
-Casa,3,Recuperação,18,83,18,83,ituano x sfera-r2
 Casa,3,Recuperação,23,58,24,56,ituano x sfera-r2
 Casa,3,Recuperação,19,33,20,36,ituano x sfera-r2
 Casa,3,Recuperação,28,60,30,67,ituano x sfera-r2
@@ -99,25 +76,25 @@ Casa,8,Recuperação,42,65,43,60,ituano x sfera-r2
 Casa,8,Recuperação,46,47,52,53,ituano x sfera-r2
 Casa,8,Recuperação,51,56,49,58,ituano x sfera-r2
 Casa,8,Recuperação,35,59,36,59,ituano x sfera-r2
-Casa,11,Chute,85,69,85,68,ituano x são bento-r3
-Casa,11,Chute,84,46,84,46,ituano x são bento-r3
-Casa,11,Chute,91,35,91,35,ituano x são bento-r3
+Casa,11,Chute,75,69,75,68,ituano x são bento-r3
+Casa,11,Chute,74,46,74,46,ituano x são bento-r3
+Casa,11,Chute,61,35,61,35,ituano x são bento-r3
 Casa,11,Chute,78,31,78,30,ituano x são bento-r3
 Casa,11,Chute,73,48,73,48,ituano x são bento-r3
 Casa,10,Chute,80,51,80,51,ituano x são bento-r3
 Casa,10,Chute,78,38,78,39,ituano x são bento-r3
 Casa,10,Chute,61,66,64,63,ituano x são bento-r3
-Casa,10,Chute,84,53,84,52,ituano x são bento-r3
-Casa,10,Chute,89,37,89,36,ituano x são bento-r3
+Casa,10,Chute,74,53,74,52,ituano x são bento-r3
+Casa,10,Chute,79,37,79,36,ituano x são bento-r3
 Casa,10,Chute,75,38,75,38,ituano x são bento-r3
 Casa,7,Chute,81,42,81,40,ituano x são bento-r3
-Casa,7,Chute,85,33,89,24,ituano x são bento-r3
-Casa,7,Chute,89,24,73,28,ituano x são bento-r3
+Casa,7,Chute,75,33,79,24,ituano x são bento-r3
+Casa,7,Chute,79,24,73,28,ituano x são bento-r3
 Casa,7,Chute,67,31,72,37,ituano x são bento-r3
-Casa,7,Chute,85,48,84,49,ituano x são bento-r3
+Casa,7,Chute,75,48,74,49,ituano x são bento-r3
 Casa,7,Chute,72,55,73,55,ituano x são bento-r3
 Casa,7,Entrada no Terço Final,72,8,90,8,ituano x são bento-r3
-Casa,7,Entrada no Terço Final,65,19,84,18,ituano x são bento-r3
+Casa,7,Entrada no Terço Final,65,19,74,18,ituano x são bento-r3
 Casa,7,Entrada no Terço Final,66,45,93,21,ituano x são bento-r3
 Casa,7,Entrada no Terço Final,88,4,90,29,ituano x são bento-r3
 Casa,17,Passe,60,40,65,40,ituano x teste
