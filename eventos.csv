@@ -1,100 +1,100 @@
 time,posicao,evento,x,y,x2,y2,jogo
-Casa,1,Passe,2,50,44,35,ituano x desp.brasil-r1
-Casa,1,Passe,4,47,13,58,ituano x desp.brasil-r1
-Casa,1,Passe,2,47,22,59,ituano x desp.brasil-r1
-Casa,1,Passe,13,48,18,49,ituano x desp.brasil-r1
-Casa,1,Passe,10,61,16,69,ituano x desp.brasil-r1
-Casa,4,Passe,20,29,29,72,ituano x desp.brasil-r1
-Casa,4,Passe,20,28,41,11,ituano x desp.brasil-r1
-Casa,4,Passe,21,28,76,15,ituano x desp.brasil-r1
-Casa,4,Passe,25,23,47,45,ituano x desp.brasil-r1
-Casa,4,Passe,26,31,73,27,ituano x desp.brasil-r1
-Casa,4,Passe,25,28,26,4,ituano x desp.brasil-r1
-Casa,4,Passe,25,24,34,52,ituano x desp.brasil-r1
-Casa,5,Passe,23,46,33,71,ituano x desp.brasil-r1
-Casa,5,Passe,24,50,29,30,ituano x desp.brasil-r1
-Casa,5,Passe,25,45,40,75,ituano x desp.brasil-r1
-Casa,5,Passe,26,50,46,65,ituano x desp.brasil-r1
-Casa,5,Passe,28,51,38,76,ituano x desp.brasil-r1
-Casa,5,Passe,27,44,23,71,ituano x desp.brasil-r1
-Casa,5,Passe,29,45,13,52,ituano x desp.brasil-r1
-Casa,5,Passe,27,45,46,28,ituano x desp.brasil-r1
-Casa,5,Passe,26,45,35,19,ituano x desp.brasil-r1
-Casa,5,Passe,28,41,18,27,ituano x desp.brasil-r1
-Casa,5,Passe,28,46,12,30,ituano x desp.brasil-r1
-Casa,10,Passe,77,47,67,32,ituano x desp.brasil-r1
-Casa,10,Passe,79,28,68,52,ituano x desp.brasil-r1
-Casa,10,Passe,56,38,79,57,ituano x desp.brasil-r1
-Casa,10,Passe,70,57,29,68,ituano x desp.brasil-r1
-Casa,10,Passe,71,45,52,25,ituano x desp.brasil-r1
-Casa,10,Passe,66,49,44,50,ituano x desp.brasil-r1
-Casa,10,Passe,65,49,79,72,ituano x desp.brasil-r1
-Casa,10,Passe,69,50,37,76,ituano x desp.brasil-r1
-Casa,8,Passe,47,41,64,42,ituano x sfera-r2
-Casa,8,Passe,38,24,37,20,ituano x sfera-r2
-Casa,8,Passe,42,52,26,50,ituano x sfera-r2
-Casa,8,Interceptação,27,63,27,62,ituano x sfera-r2
-Casa,8,Interceptação,34,28,34,28,ituano x sfera-r2
-Casa,8,Interceptação,78,17,78,17,ituano x sfera-r2
-Casa,8,Interceptação,64,73,64,76,ituano x sfera-r2
-Casa,8,Interceptação,73,42,73,42,ituano x sfera-r2
-Casa,5,Interceptação,33,48,33,47,ituano x sfera-r2
-Casa,5,Interceptação,38,19,38,19,ituano x sfera-r2
-Casa,5,Interceptação,47,38,35,49,ituano x sfera-r2
-Casa,5,Interceptação,26,50,26,50,ituano x sfera-r2
-Casa,5,Interceptação,27,24,44,33,ituano x sfera-r2
-Casa,5,Interceptação,48,41,42,57,ituano x sfera-r2
-Casa,5,Interceptação,36,69,36,69,ituano x sfera-r2
-Casa,3,Interceptação,11,56,13,51,ituano x sfera-r2
-Casa,3,Interceptação,22,32,22,31,ituano x sfera-r2
-Casa,3,Interceptação,19,44,19,48,ituano x sfera-r2
-Casa,4,Interceptação,21,21,21,23,ituano x sfera-r2
-Casa,4,Interceptação,16,52,20,76,ituano x sfera-r2
-Casa,4,Interceptação,36,65,57,49,ituano x sfera-r2
-Casa,4,Interceptação,26,23,26,23,ituano x sfera-r2
-Casa,3,Recuperação,23,58,24,56,ituano x sfera-r2
-Casa,3,Recuperação,19,33,20,36,ituano x sfera-r2
-Casa,3,Recuperação,28,60,30,67,ituano x sfera-r2
-Casa,3,Recuperação,3,75,5,75,ituano x sfera-r2
-Casa,3,Recuperação,28,68,42,67,ituano x sfera-r2
-Casa,4,Recuperação,21,34,21,34,ituano x sfera-r2
-Casa,4,Recuperação,23,28,16,47,ituano x sfera-r2
-Casa,4,Recuperação,14,53,17,57,ituano x sfera-r2
-Casa,4,Recuperação,21,55,22,40,ituano x sfera-r2
-Casa,4,Recuperação,21,34,22,50,ituano x sfera-r2
-Casa,4,Recuperação,24,52,25,53,ituano x sfera-r2
-Casa,5,Recuperação,34,48,34,47,ituano x sfera-r2
-Casa,5,Recuperação,32,31,29,45,ituano x sfera-r2
-Casa,5,Recuperação,26,68,27,67,ituano x sfera-r2
-Casa,5,Recuperação,30,43,30,43,ituano x sfera-r2
-Casa,5,Recuperação,28,55,26,61,ituano x sfera-r2
-Casa,5,Recuperação,32,41,33,41,ituano x sfera-r2
-Casa,8,Recuperação,47,50,47,50,ituano x sfera-r2
-Casa,8,Recuperação,39,42,39,42,ituano x sfera-r2
-Casa,8,Recuperação,42,41,46,64,ituano x sfera-r2
-Casa,8,Recuperação,42,65,43,60,ituano x sfera-r2
-Casa,8,Recuperação,46,47,52,53,ituano x sfera-r2
-Casa,8,Recuperação,51,56,49,58,ituano x sfera-r2
-Casa,8,Recuperação,35,59,36,59,ituano x sfera-r2
-Casa,11,Chute,75,69,75,68,ituano x são bento-r3
-Casa,11,Chute,74,46,74,46,ituano x são bento-r3
-Casa,11,Chute,61,35,61,35,ituano x são bento-r3
-Casa,11,Chute,78,31,78,30,ituano x são bento-r3
-Casa,11,Chute,73,48,73,48,ituano x são bento-r3
-Casa,10,Chute,80,51,80,51,ituano x são bento-r3
-Casa,10,Chute,78,38,78,39,ituano x são bento-r3
-Casa,10,Chute,61,66,64,63,ituano x são bento-r3
-Casa,10,Chute,74,53,74,52,ituano x são bento-r3
-Casa,10,Chute,79,37,79,36,ituano x são bento-r3
-Casa,10,Chute,75,38,75,38,ituano x são bento-r3
-Casa,7,Chute,81,42,81,40,ituano x são bento-r3
-Casa,7,Chute,75,33,79,24,ituano x são bento-r3
-Casa,7,Chute,79,24,73,28,ituano x são bento-r3
-Casa,7,Chute,67,31,72,37,ituano x são bento-r3
-Casa,7,Chute,75,48,74,49,ituano x são bento-r3
-Casa,7,Chute,72,55,73,55,ituano x são bento-r3
-Casa,7,Entrada no Terço Final,72,8,90,8,ituano x são bento-r3
-Casa,7,Entrada no Terço Final,65,19,74,18,ituano x são bento-r3
-Casa,7,Entrada no Terço Final,66,45,93,21,ituano x são bento-r3
-Casa,7,Entrada no Terço Final,88,4,90,29,ituano x são bento-r3
-Casa,17,Passe,60,40,65,40,ituano x teste
+Casa,GOL,Passe,2,50,44,35,ituano x desp.brasil-r1
+Casa,GOL,Passe,4,47,13,58,ituano x desp.brasil-r1
+Casa,GOL,Passe,2,47,22,59,ituano x desp.brasil-r1
+Casa,GOL,Passe,13,48,18,49,ituano x desp.brasil-r1
+Casa,GOL,Passe,10,61,16,69,ituano x desp.brasil-r1
+Casa,ZGE,Passe,20,29,29,72,ituano x desp.brasil-r1
+Casa,ZGE,Passe,20,28,41,11,ituano x desp.brasil-r1
+Casa,ZGE,Passe,21,28,76,15,ituano x desp.brasil-r1
+Casa,ZGE,Passe,25,23,47,45,ituano x desp.brasil-r1
+Casa,ZGE,Passe,26,31,73,27,ituano x desp.brasil-r1
+Casa,ZGE,Passe,25,28,26,4,ituano x desp.brasil-r1
+Casa,ZGE,Passe,25,24,34,52,ituano x desp.brasil-r1
+Casa,VOLC,Passe,23,46,33,71,ituano x desp.brasil-r1
+Casa,VOLC,Passe,24,50,29,30,ituano x desp.brasil-r1
+Casa,VOLC,Passe,25,45,40,75,ituano x desp.brasil-r1
+Casa,VOLC,Passe,26,50,46,65,ituano x desp.brasil-r1
+Casa,VOLC,Passe,28,51,38,76,ituano x desp.brasil-r1
+Casa,VOLC,Passe,27,44,23,71,ituano x desp.brasil-r1
+Casa,VOLC,Passe,29,45,13,52,ituano x desp.brasil-r1
+Casa,VOLC,Passe,27,45,46,28,ituano x desp.brasil-r1
+Casa,VOLC,Passe,26,45,35,19,ituano x desp.brasil-r1
+Casa,VOLC,Passe,28,41,18,27,ituano x desp.brasil-r1
+Casa,VOLC,Passe,28,46,12,30,ituano x desp.brasil-r1
+Casa,MEO,Passe,77,47,67,32,ituano x desp.brasil-r1
+Casa,MEO,Passe,79,28,68,52,ituano x desp.brasil-r1
+Casa,MEO,Passe,56,38,79,57,ituano x desp.brasil-r1
+Casa,MEO,Passe,70,57,29,68,ituano x desp.brasil-r1
+Casa,MEO,Passe,71,45,52,25,ituano x desp.brasil-r1
+Casa,MEO,Passe,66,49,44,50,ituano x desp.brasil-r1
+Casa,MEO,Passe,65,49,79,72,ituano x desp.brasil-r1
+Casa,MEO,Passe,69,50,37,76,ituano x desp.brasil-r1
+Casa,VOLE,Passe,47,41,64,42,ituano x sfera-r2
+Casa,VOLE,Passe,38,24,37,20,ituano x sfera-r2
+Casa,VOLE,Passe,42,52,26,50,ituano x sfera-r2
+Casa,VOLE,Interceptação,27,63,27,62,ituano x sfera-r2
+Casa,VOLE,Interceptação,34,28,34,28,ituano x sfera-r2
+Casa,VOLE,Interceptação,78,17,78,17,ituano x sfera-r2
+Casa,VOLE,Interceptação,64,73,64,76,ituano x sfera-r2
+Casa,VOLE,Interceptação,73,42,73,42,ituano x sfera-r2
+Casa,VOLC,Interceptação,33,48,33,47,ituano x sfera-r2
+Casa,VOLC,Interceptação,38,19,38,19,ituano x sfera-r2
+Casa,VOLC,Interceptação,47,38,35,49,ituano x sfera-r2
+Casa,VOLC,Interceptação,26,50,26,50,ituano x sfera-r2
+Casa,VOLC,Interceptação,27,24,44,33,ituano x sfera-r2
+Casa,VOLC,Interceptação,48,41,42,57,ituano x sfera-r2
+Casa,VOLC,Interceptação,36,69,36,69,ituano x sfera-r2
+Casa,ZGD,Interceptação,11,56,13,51,ituano x sfera-r2
+Casa,ZGD,Interceptação,22,32,22,31,ituano x sfera-r2
+Casa,ZGD,Interceptação,19,44,19,48,ituano x sfera-r2
+Casa,ZGE,Interceptação,21,21,21,23,ituano x sfera-r2
+Casa,ZGE,Interceptação,16,52,20,76,ituano x sfera-r2
+Casa,ZGE,Interceptação,36,65,57,49,ituano x sfera-r2
+Casa,ZGE,Interceptação,26,23,26,23,ituano x sfera-r2
+Casa,ZGD,Recuperação,23,58,24,56,ituano x sfera-r2
+Casa,ZGD,Recuperação,19,33,20,36,ituano x sfera-r2
+Casa,ZGD,Recuperação,28,60,30,67,ituano x sfera-r2
+Casa,ZGD,Recuperação,3,75,5,75,ituano x sfera-r2
+Casa,ZGD,Recuperação,28,68,42,67,ituano x sfera-r2
+Casa,ZGE,Recuperação,21,34,21,34,ituano x sfera-r2
+Casa,ZGE,Recuperação,23,28,16,47,ituano x sfera-r2
+Casa,ZGE,Recuperação,14,53,17,57,ituano x sfera-r2
+Casa,ZGE,Recuperação,21,55,22,40,ituano x sfera-r2
+Casa,ZGE,Recuperação,21,34,22,50,ituano x sfera-r2
+Casa,ZGE,Recuperação,24,52,25,53,ituano x sfera-r2
+Casa,VOLC,Recuperação,34,48,34,47,ituano x sfera-r2
+Casa,VOLC,Recuperação,32,31,29,45,ituano x sfera-r2
+Casa,VOLC,Recuperação,26,68,27,67,ituano x sfera-r2
+Casa,VOLC,Recuperação,30,43,30,43,ituano x sfera-r2
+Casa,VOLC,Recuperação,28,55,26,61,ituano x sfera-r2
+Casa,VOLC,Recuperação,32,41,33,41,ituano x sfera-r2
+Casa,VOLE,Recuperação,47,50,47,50,ituano x sfera-r2
+Casa,VOLE,Recuperação,39,42,39,42,ituano x sfera-r2
+Casa,VOLE,Recuperação,42,41,46,64,ituano x sfera-r2
+Casa,VOLE,Recuperação,42,65,43,60,ituano x sfera-r2
+Casa,VOLE,Recuperação,46,47,52,53,ituano x sfera-r2
+Casa,VOLE,Recuperação,51,56,49,58,ituano x sfera-r2
+Casa,VOLE,Recuperação,35,59,36,59,ituano x sfera-r2
+Casa,PE,Chute,75,69,75,68,ituano x são bento-r3
+Casa,PE,Chute,74,46,74,46,ituano x são bento-r3
+Casa,PE,Chute,61,35,61,35,ituano x são bento-r3
+Casa,PE,Chute,78,31,78,30,ituano x são bento-r3
+Casa,PE,Chute,73,48,73,48,ituano x são bento-r3
+Casa,MEO,Chute,80,51,80,51,ituano x são bento-r3
+Casa,MEO,Chute,78,38,78,39,ituano x são bento-r3
+Casa,MEO,Chute,61,66,64,63,ituano x são bento-r3
+Casa,MEO,Chute,74,53,74,52,ituano x são bento-r3
+Casa,MEO,Chute,79,37,79,36,ituano x são bento-r3
+Casa,MEO,Chute,75,38,75,38,ituano x são bento-r3
+Casa,PD,Chute,81,42,81,40,ituano x são bento-r3
+Casa,PD,Chute,75,33,79,24,ituano x são bento-r3
+Casa,PD,Chute,79,24,73,28,ituano x são bento-r3
+Casa,PD,Chute,67,31,72,37,ituano x são bento-r3
+Casa,PD,Chute,75,48,74,49,ituano x são bento-r3
+Casa,PD,Chute,72,55,73,55,ituano x são bento-r3
+Casa,PD,Entrada no Terço Final,72,8,90,8,ituano x são bento-r3
+Casa,PD,Entrada no Terço Final,65,19,74,18,ituano x são bento-r3
+Casa,PD,Entrada no Terço Final,66,45,93,21,ituano x são bento-r3
+Casa,PD,Entrada no Terço Final,88,4,90,29,ituano x são bento-r3
+Casa,PE,Passe,60,40,65,40,ituano x teste
