@@ -1,554 +1,649 @@
-,time,posicao,evento,x,y,x2,y2,jogo
-0,Casa,JP Amaro,Interceptação,30,31,30,31,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-1,Casa,Victor Reis,Duelo defensivo,70,6,70,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-2,Casa,Matheus Maia,Passe,49,6,33,13,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-3,Casa,JP Amaro,Passe,19,11,3,31,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-4,Casa,PH Montavani,Passe,3,32,6,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-5,Casa,Matheus Rocha,Passe,27,40,71,5,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-6,Casa,Matheus Maia,Duelo defensivo,64,3,64,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-7,Casa,Matheus Maia,Duelo defensivo,55,4,55,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-8,Casa,JP Amaro,Passe,50,9,37,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-9,Casa,Matheus Rocha,Passe,41,42,41,36,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-10,Casa,Marcelo Almeida,Passe,43,36,46,10,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-11,Casa,JP Amaro,Passe,54,6,96,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-12,Casa,PH Montavani,Passe,13,40,17,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-13,Casa,Marcelo Almeida,Passe,27,39,52,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-14,Casa,Matheus Rocha,Recuperação,55,70,55,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-15,Casa,Matheus Rocha,Passe,55,70,41,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-16,Casa,Leo Izidoro,Passe,43,37,45,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-17,Casa,JP Amaro,Passe,46,34,40,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-18,Casa,Leo Izidoro,Passe,42,13,43,71,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-19,Casa,Lucas Rosario,Interceptação,65,77,65,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-20,Casa,Matheus Rocha,Duelo defensivo,52,74,52,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-21,Casa,Marcelo Almeida,Duelo defensivo,24,80,24,80,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-22,Casa,JP Amaro,Interceptação,2,35,2,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-23,Casa,JP Amaro,Interceptação,8,36,8,36,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-24,Casa,Victor Reis,Duelo defensivo,19,3,19,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-25,Casa,Matheus Rocha,Passe,16,62,16,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-26,Casa,JP Amaro,Passe,16,33,20,11,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-27,Casa,Leo Izidoro,Passe,30,12,19,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-28,Casa,JP Amaro,Passe,36,41,44,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-29,Casa,Matheus Rocha,Passe,52,75,35,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-30,Casa,JP Amaro,Passe,41,49,43,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-31,Casa,Leo Izidoro,Passe,41,11,36,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-32,Casa,JP Amaro,Passe,38,46,52,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-33,Casa,Matheus Rocha,Passe,74,73,87,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-34,Casa,Matheus Rocha,Interceptação,42,64,42,64,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-35,Casa,Leo Izidoro,Interceptação,6,15,6,15,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-36,Casa,Marcelo Almeida,Passe,16,2,74,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-37,Casa,Marcelo Almeida,Passe,68,16,44,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-38,Casa,Matheus Rocha,Passe,54,42,65,25,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-39,Casa,Victor Reis,Passe,68,25,60,12,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-40,Casa,JP Amaro,Recuperação,15,45,15,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-41,Casa,JP Amaro,Passe,15,44,10,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-42,Casa,Lucas Rosario,Interceptação,24,62,24,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-43,Casa,Victor Reis,Duelo defensivo,28,57,28,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-44,Visitante,Victor Reis,Chute,25,59,25,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-45,Casa,PH Montavani,Passe,7,41,13,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-46,Casa,Matheus Rocha,Passe,38,46,46,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-47,Casa,Matheus Maia,Passe,67,11,36,42,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-48,Casa,Matheus Rocha,Passe,48,45,53,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-49,Casa,Lucas Rosario,Passe,58,74,48,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-50,Casa,Matheus Rocha,Passe,55,43,61,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-51,Casa,JP Amaro,Passe,56,18,40,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-52,Casa,Matheus Rocha,Passe,43,40,60,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-53,Casa,Marcelo Almeida,Passe,71,43,65,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-54,Casa,Lucas Rosario,Passe,66,76,89,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-55,Casa,Marcelo Almeida,Duelo defensivo,93,79,93,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-56,Casa,Marcelo Almeida,Recuperação,91,79,91,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-57,Casa,Marcelo Almeida,Passe,90,79,84,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-58,Casa,Matheus Maia,Passe,97,15,89,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-59,Casa,Victor Reis,Passe,88,24,104,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-60,Casa,Lucas Rosario,Recuperação,105,77,105,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-61,Casa,Lucas Rosario,Passe,105,77,110,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-62,Casa,Leo Izidoro,Interceptação,55,10,55,10,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-63,Casa,Kaique Clemente,Cruzamento,95,70,119,36,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-64,Casa,Leo Izidoro,Interceptação,35,28,35,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-65,Casa,Victor Reis,Passe,37,10,22,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-66,Casa,Kaique Clemente,Duelo defensivo,16,57,16,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-67,Casa,Matheus Rocha,Passe,27,55,50,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-68,Casa,Matheus Conceição,Passe,50,79,41,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-69,Casa,Lucas Rosario,Passe,45,79,66,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-70,Casa,Matheus Rocha,Passe,68,80,76,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-71,Casa,Victor Reis,Passe,78,61,85,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-72,Casa,Marcelo Almeida,Passe,100,70,99,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-73,Casa,Lucas Rosario,Passe,97,79,68,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-74,Casa,Matheus Rocha,Passe,68,75,63,67,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-75,Casa,JP Amaro,Passe,65,60,77,24,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-76,Casa,Matheus Maia,Duelo defensivo,80,11,80,11,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-77,Casa,Matheus Maia,Duelo defensivo,94,2,94,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-78,Casa,Kaique Clemente,Duelo defensivo,110,45,110,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-79,Casa,Matheus Rocha,Interceptação,58,49,58,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-80,Casa,Matheus Rocha,Recuperação,58,49,58,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-81,Casa,Matheus Rocha,Passe,66,47,76,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-82,Casa,Marcelo Almeida,Passe,78,63,86,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-83,Casa,Lucas Rosario,Cruzamento,94,79,116,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-84,Casa,Victor Reis,Interceptação,92,16,92,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-85,Casa,Victor Reis,Duelo defensivo,84,26,84,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-86,Casa,Kaique Clemente,Cruzamento,87,41,120,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-87,Casa,Lucas Rosario,Duelo defensivo,16,77,16,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-88,Casa,Marcelo Almeida,Duelo defensivo,17,80,17,80,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-89,Casa,Matheus Rocha,Interceptação,7,60,7,60,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-90,Casa,Matheus Rocha,Passe,5,59,6,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-91,Casa,Lucas Rosario,Duelo defensivo,7,62,7,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-92,Casa,Leo Izidoro,Interceptação,2,37,2,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-93,Visitante,Leo Izidoro,Chute,17,58,17,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-94,Casa,Leo Izidoro,Defesa,17,57,17,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-95,Casa,JP Amaro,Passe,49,8,38,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-96,Casa,Marcelo Almeida,Passe,47,41,58,22,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-97,Casa,Victor Reis,Passe,61,14,50,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-98,Casa,JP Amaro,Passe,52,8,13,36,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-99,Casa,PH Montavani,Passe,14,33,37,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-100,Casa,Matheus Rocha,Passe,40,76,35,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-101,Casa,Marcelo Almeida,Passe,41,40,46,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-102,Casa,Kaique Clemente,Duelo defensivo,26,79,26,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-103,Casa,Kaique Clemente,Recuperação,17,79,17,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-104,Casa,Kaique Clemente,Passe,19,78,49,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-105,Casa,PH Montavani,Passe,12,45,16,71,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-106,Casa,Lucas Rosario,Passe,31,77,53,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-107,Casa,Lucas Rosario,Passe,56,79,50,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-108,Casa,Matheus Rocha,Passe,55,75,50,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-109,Casa,Marcelo Almeida,Passe,53,44,63,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-110,Casa,JP Amaro,Passe,66,8,50,24,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-111,Casa,Marcelo Almeida,Passe,64,31,56,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-112,Casa,Matheus Rocha,Passe,73,71,56,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-113,Casa,Marcelo Almeida,Passe,76,33,83,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-114,Casa,Victor Reis,Recuperação,85,43,85,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-115,Casa,Matheus Rocha,Passe,53,48,14,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-116,Casa,PH Montavani,Passe,14,41,22,22,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-117,Casa,JP Amaro,Passe,21,22,36,36,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-118,Casa,Marcelo Almeida,Passe,40,38,56,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-119,Casa,Matheus Rocha,Passe,66,74,56,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-120,Casa,Marcelo Almeida,Passe,62,46,78,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-121,Casa,Kaique Clemente,Passe,78,53,87,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-122,Casa,JP Amaro,Passe,17,8,4,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-123,Casa,PH Montavani,Passe,11,30,36,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-124,Casa,Marcelo Almeida,Passe,43,56,52,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-125,Casa,Matheus Rocha,Passe,54,78,59,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-126,Casa,Kaique Clemente,Passe,58,48,50,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-127,Casa,Marcelo Almeida,Passe,42,55,16,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-128,Casa,PH Montavani,Passe,17,36,27,42,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-129,Casa,Kaique Clemente,Duelo defensivo,66,49,66,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-130,Casa,Matheus Conceição,Duelo defensivo,78,52,78,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-131,Casa,PH Montavani,Passe,15,61,46,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-132,Casa,Matheus Rocha,Passe,47,76,41,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-133,Casa,Marcelo Almeida,Passe,46,48,58,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-134,Casa,Matheus Maia,Duelo defensivo,56,16,56,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-135,Casa,JP Amaro,Duelo defensivo,56,26,56,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-136,Casa,Victor Reis,Duelo defensivo,15,4,15,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-137,Casa,JP Amaro,Interceptação,12,49,12,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-138,Casa,Victor Reis,Interceptação,15,48,15,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-139,Casa,Matheus Conceição,Recuperação,25,53,25,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-140,Casa,Victor Reis,Duelo defensivo,35,55,35,55,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-141,Casa,Victor Reis,Duelo defensivo,41,56,41,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-142,Casa,Lucas Rosario,Interceptação,11,50,11,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-143,Casa,Matheus Conceição,Interceptação,51,70,51,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-144,Casa,Leo Izidoro,Interceptação,21,20,21,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-145,Casa,Marcelo Almeida,Passe,35,31,37,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-146,Casa,Matheus Rocha,Passe,55,64,44,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-147,Casa,Marcelo Almeida,Passe,47,44,60,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-148,Casa,Matheus Conceição,Duelo defensivo,113,79,113,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-149,Casa,Leo Izidoro,Duelo defensivo,45,4,45,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-150,Casa,Matheus Maia,Duelo defensivo,56,2,56,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-151,Casa,Victor Reis,Duelo defensivo,57,8,57,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-152,Casa,Matheus Maia,Duelo defensivo,61,6,61,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-153,Casa,PH Montavani,Passe,10,55,11,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-154,Casa,Matheus Rocha,Passe,26,53,21,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-155,Casa,Marcelo Almeida,Passe,34,35,35,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-156,Casa,JP Amaro,Passe,40,4,8,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-157,Casa,PH Montavani,Passe,13,47,45,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-158,Casa,Matheus Rocha,Passe,48,77,54,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-159,Casa,Kaique Clemente,Passe,56,46,90,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-160,Casa,Leo Izidoro,Passe,94,5,81,13,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-161,Casa,Victor Reis,Passe,87,16,87,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-162,Casa,Kaique Clemente,Passe,85,16,85,10,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-163,Casa,Victor Reis,Passe,78,13,90,12,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-164,Casa,Kaique Clemente,Passe,76,24,60,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-165,Casa,Matheus Rocha,Passe,67,69,89,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-166,Casa,Matheus Conceição,Recuperação,86,56,86,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-167,Casa,Matheus Conceição,Chute,94,44,94,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-168,Casa,Kaique Clemente,Recuperação,89,51,89,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-169,Casa,Victor Reis,Interceptação,66,35,66,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-170,Casa,Victor Reis,Recuperação,66,34,66,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-171,Casa,Victor Reis,Passe,85,16,76,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-172,Casa,Matheus Maia,Passe,85,27,98,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-173,Casa,Leo Izidoro,Passe,101,8,88,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-174,Casa,Victor Reis,Passe,86,14,72,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-175,Casa,Matheus Rocha,Passe,80,62,103,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-176,Casa,Lucas Rosario,Cruzamento,107,79,116,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-177,Casa,JP Amaro,Interceptação,48,57,48,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-178,Casa,Matheus Rocha,Interceptação,45,57,45,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-179,Casa,JP Amaro,Passe,23,39,8,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-180,Casa,PH Montavani,Passe,9,40,18,25,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-181,Casa,JP Amaro,Passe,19,25,23,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-182,Casa,Marcelo Almeida,Passe,38,35,51,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-183,Casa,Matheus Rocha,Passe,52,77,67,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-184,Casa,Lucas Rosario,Passe,69,78,88,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-185,Casa,Matheus Conceição,Passe,92,77,83,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-186,Casa,Lucas Rosario,Passe,99,72,102,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-187,Casa,Matheus Conceição,Passe,97,79,90,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-188,Casa,Lucas Rosario,Passe,90,57,82,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-189,Casa,Marcelo Almeida,Chute,87,46,87,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-190,Casa,Lucas Rosario,Duelo defensivo,6,62,6,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-191,Casa,Kaique Clemente,Duelo defensivo,43,79,43,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-192,Casa,Lucas Rosario,Duelo defensivo,6,62,6,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-193,Casa,Kaique Clemente,Duelo defensivo,43,79,43,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-194,Casa,Leo Izidoro,Duelo defensivo,54,6,54,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-195,Casa,Victor Reis,Passe,44,24,44,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-196,Casa,Marcelo Almeida,Passe,53,31,49,25,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-197,Casa,Matheus Rocha,Duelo defensivo,24,51,24,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-199,Visitante,Marcelo Almeida,Passe,44,47,53,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-200,Casa,Matheus Rocha,Passe,56,68,47,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-201,Casa,Marcelo Almeida,Passe,54,49,62,21,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-202,Casa,Victor Reis,Passe,76,21,89,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-203,Casa,Kaique Clemente,Assistência,89,19,113,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-204,Casa,Matheus Rocha,Gol,113,46,113,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-205,Casa,Marcelo Almeida,Interceptação,81,52,81,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-206,Casa,Kaique Clemente,Cruzamento,116,77,118,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-207,Casa,Marcelo Almeida,Passe,47,48,42,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-208,Casa,JP Amaro,Passe,42,33,52,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-209,Casa,Matheus Rocha,Passe,56,67,45,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-210,Casa,Marcelo Almeida,Passe,49,47,56,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-211,Casa,JP Amaro,Passe,63,17,53,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-212,Casa,Lucas Rosario,Duelo defensivo,52,77,52,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-213,Casa,Matheus Rocha,Interceptação,20,77,20,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-214,Casa,Matheus Rocha,Recuperação,21,76,21,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-215,Casa,Matheus Rocha,Passe,21,76,20,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-216,Casa,JP Amaro,Passe,21,58,15,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-217,Casa,Victor Reis,Duelo defensivo,39,40,39,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-218,Casa,PH Montavani,Passe,13,48,26,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-219,Casa,Leo Izidoro,Passe,42,5,55,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-220,Casa,Matheus Maia,Passe,57,4,57,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-221,Casa,Victor Reis,Passe,58,12,50,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-222,Casa,Leo Izidoro,Passe,52,9,60,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-223,Casa,Matheus Maia,Passe,60,4,74,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-224,Casa,Marcelo Almeida,Duelo defensivo,80,34,80,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-225,Casa,Victor Reis,Duelo defensivo,89,27,89,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-226,Casa,JP Amaro,Interceptação,55,26,55,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-227,Casa,JP Amaro,Recuperação,55,27,55,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-228,Casa,JP Amaro,Passe,56,26,64,31,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-229,Casa,Marcelo Almeida,Passe,69,45,65,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-230,Casa,Matheus Rocha,Passe,68,65,59,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-231,Casa,Marcelo Almeida,Passe,57,31,66,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-232,Casa,JP Amaro,Passe,71,16,62,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-233,Casa,Marcelo Almeida,Passe,62,30,69,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-234,Casa,Kaique Clemente,Passe,77,54,90,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-235,Casa,Marcelo Almeida,Interceptação,81,63,81,63,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-236,Casa,Victor Reis,Recuperação,84,51,84,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-237,Casa,Victor Reis,Passe,82,46,80,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-238,Casa,Leo Izidoro,Passe,86,31,81,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-239,Casa,JP Amaro,Duelo defensivo,65,15,65,15,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-240,Casa,Leo Izidoro,Duelo defensivo,53,11,53,11,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-241,Casa,Leo Izidoro,Duelo defensivo,50,10,50,10,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-242,Casa,Matheus Maia,Interceptação,52,2,52,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-243,Casa,Victor Reis,Interceptação,55,6,55,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-244,Casa,Victor Reis,Passe,55,6,55,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-245,Casa,Victor Reis,Recuperação,56,6,56,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-246,Casa,Leo Izidoro,Duelo defensivo,39,8,39,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-247,Casa,Victor Reis,Duelo defensivo,49,6,49,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-248,Casa,Matheus Rocha,Recuperação,26,29,26,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-249,Casa,Matheus Rocha,Passe,23,31,21,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-250,Casa,Lucas Rosario,Passe,34,62,29,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-251,Casa,Matheus Rocha,Passe,38,40,38,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-252,Casa,JP Amaro,Passe,46,11,31,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-253,Casa,Matheus Rocha,Passe,25,40,45,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-254,Casa,Marcelo Almeida,Passe,44,37,43,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-255,Casa,JP Amaro,Passe,42,10,25,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-256,Casa,Matheus Rocha,Passe,25,57,34,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-257,Casa,Marcelo Almeida,Duelo defensivo,35,68,35,68,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-258,Casa,JP Amaro,Interceptação,21,72,21,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-259,Casa,Lucas Rosario,Recuperação,20,70,20,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-260,Casa,Lucas Rosario,Passe,39,67,58,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-261,Casa,Matheus Rocha,Passe,43,64,30,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-262,Casa,JP Amaro,Passe,32,40,48,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-263,Casa,Leo Izidoro,Passe,50,17,34,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-264,Casa,JP Amaro,Passe,36,40,39,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-265,Casa,Matheus Rocha,Passe,49,72,36,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-266,Casa,JP Amaro,Passe,35,41,45,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-0,Casa,Vinícius de Oliveira,Interceptação,47,34,47,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-1,Casa,PH Leite,Recuperação,12,63,12,63,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-2,Casa,PH Leite,Passe,10,77,11,68,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-3,Casa,Victor Moraes,Passe,18,60,12,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-4,Casa,Jhone Costa,Passe,13,58,19,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-5,Casa,Victor Moraes,Duelo defensivo,32,74,32,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-6,Casa,Marcelo Almeida,Passe,37,40,45,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-7,Casa,Matheus Rocha,Passe,42,73,18,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-8,Casa,PH Montavani,Passe,20,53,29,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-9,Casa,Marcelo Almeida,Passe,35,38,48,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-10,Casa,JP Amaro,Passe,50,4,37,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-11,Casa,Marcelo Almeida,Passe,45,34,42,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-12,Casa,Matheus Rocha,Passe,39,71,40,42,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-13,Casa,Marcelo Almeida,Passe,52,32,56,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-14,Casa,JP Amaro,Passe,52,1,44,11,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-15,Casa,Marcelo Almeida,Passe,53,32,65,67,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-16,Casa,Matheus Rocha,Passe,67,66,56,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-17,Casa,Marcelo Almeida,Passe,63,46,79,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-18,Casa,Kaique Clemente,Passe,89,65,108,68,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-19,Casa,Matheus Conceição,Passe,102,72,93,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-20,Casa,Kaique Clemente,Cruzamento,91,65,116,33,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-21,Casa,Jonathan Camargo,Cabeceio,117,32,117,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-22,Casa,JP Amaro,Passe,45,4,35,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-23,Casa,Marcelo Almeida,Passe,35,28,46,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-24,Casa,Matheus Rocha,Passe,46,70,47,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-25,Casa,Marcelo Almeida,Passe,56,53,78,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-26,Casa,Jonathan Camargo,Passe,73,31,70,22,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-27,Casa,Leo Izidoro,Passe,72,23,77,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-28,Casa,Kaique Clemente,Passe,75,45,64,67,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-29,Casa,Matheus Rocha,Passe,69,70,79,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-30,Casa,Lucas Rosario,Passe,68,72,70,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-31,Casa,Kaique Clemente,Passe,64,53,65,23,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-32,Casa,JP Amaro,Passe,78,17,98,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-33,Casa,Matheus Maia,Passe,100,1,78,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-34,Casa,JP Amaro,Passe,77,1,64,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-35,Casa,Marcelo Almeida,Passe,62,28,57,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-36,Casa,Matheus Rocha,Passe,71,60,117,64,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-37,Casa,Matheus Conceição,Cruzamento,118,57,114,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-38,Casa,Victor Reis,Passe,93,23,95,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-39,Casa,JP Amaro,Passe,20,1,6,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-40,Casa,PH Montavani,Passe,6,20,17,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-41,Casa,PH Montavani,Passe,20,40,27,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-42,Casa,Marcelo Almeida,Passe,35,38,55,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-43,Casa,JP Amaro,Passe,53,4,41,23,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-44,Casa,Marcelo Almeida,Passe,51,27,67,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-45,Casa,Leo Izidoro,Passe,68,1,75,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-46,Casa,Matheus Maia,Passe,79,7,84,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-47,Casa,Leo Izidoro,Passe,79,3,62,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-48,Casa,JP Amaro,Passe,63,3,60,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-49,Casa,Marcelo Almeida,Passe,66,25,84,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-50,Casa,Matheus Conceição,Recuperação,95,56,95,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-51,Casa,Matheus Conceição,Passe,97,54,88,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-52,Casa,Victor Reis,Passe,87,40,92,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-53,Casa,Leo Izidoro,Cruzamento,101,1,113,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-54,Casa,Lucas Rosario,Recuperação,93,72,93,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-55,Casa,Marcelo Almeida,Interceptação,48,62,48,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-56,Casa,Matheus Rocha,Interceptação,28,75,28,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-57,Casa,Matheus Rocha,Duelo defensivo,28,65,28,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-58,Casa,Lucas Rosario,Duelo defensivo,23,63,23,63,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-59,Casa,Lucas Rosario,Interceptação,19,57,19,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-60,Casa,Marcelo Almeida,Duelo defensivo,21,39,21,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-61,Casa,Victor Reis,Duelo defensivo,20,40,20,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-62,Casa,Lucas Rosario,Duelo defensivo,12,65,12,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-63,Casa,Lucas Rosario,Recuperação,9,65,9,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-64,Casa,Lucas Rosario,Interceptação,21,74,21,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-65,Casa,Matheus Conceição,Recuperação,34,66,34,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-66,Casa,Jonathan Camargo,Recuperação,78,73,78,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-67,Casa,Victor Reis,Duelo defensivo,73,16,73,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-68,Casa,Kaique Clemente,Cruzamento,73,9,114,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-69,Casa,JP Amaro,Cabeceio,115,45,115,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-70,Casa,Victor Reis,Duelo defensivo,67,16,67,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-71,Casa,Jonathan Camargo,Interceptação,57,18,57,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-72,Casa,Marcelo Almeida,Recuperação,51,41,51,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-73,Casa,Matheus Rocha,Interceptação,40,40,40,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-74,Casa,Lucas Rosario,Interceptação,21,54,21,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-75,Casa,Lucas Rosario,Passe,19,51,23,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-76,Casa,Marcelo Almeida,Passe,22,39,22,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-77,Casa,Kaique Clemente,Duelo defensivo,59,35,59,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-78,Casa,JP Amaro,Interceptação,15,19,15,19,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-79,Casa,JP Amaro,Recuperação,4,1,4,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-80,Casa,JP Amaro,Passe,5,1,43,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-81,Casa,Kaique Clemente,Passe,78,14,89,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-82,Casa,Jonathan Camargo,Passe,88,11,89,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-83,Casa,Matheus Maia,Passe,84,1,78,12,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-84,Casa,Victor Reis,Duelo defensivo,70,18,70,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-85,Casa,Victor Reis,Duelo defensivo,67,20,67,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-86,Casa,Victor Reis,Recuperação,67,20,67,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-87,Casa,Victor Reis,Passe,66,21,71,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-88,Casa,Matheus Maia,Passe,79,2,66,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-89,Casa,Victor Reis,Passe,79,16,88,10,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-90,Casa,JP Amaro,Passe,27,73,27,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-91,Casa,Jhone Costa,Passe,29,41,33,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-92,Casa,JP Amaro,Passe,33,16,18,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-93,Casa,Lucas Stefanello,Duelo defensivo,43,13,43,13,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-94,Casa,Leo Izidoro,Interceptação,16,27,16,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-95,Casa,PH Montavani,Passe,3,47,8,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-96,Casa,Matheus Rocha,Passe,29,50,29,15,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-97,Casa,JP Amaro,Passe,30,13,55,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-98,Casa,Leo Izidoro,Passe,55,1,53,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-99,Casa,Jhone Costa,Duelo defensivo,51,3,51,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-100,Casa,Jhone Costa,Duelo defensivo,6,21,6,21,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-101,Casa,Jhone Costa,Passe,5,19,18,5,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-102,Casa,Kaique Clemente,Passe,22,2,9,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-103,Casa,JP Amaro,Passe,7,18,12,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-104,Casa,Matheus Rocha,Passe,31,44,31,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-105,Casa,Lucas Rosario,Passe,32,70,52,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-106,Casa,Matheus Conceição,Passe,53,77,46,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-107,Casa,Lucas Rosario,Passe,58,59,55,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-108,Casa,Kaique Clemente,Passe,58,45,99,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-109,Casa,Lucas Stefanello,Passe,103,34,100,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-110,Casa,Kaique Clemente,Chute,103,45,103,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-111,Casa,Jonathan Camargo,Chute,118,35,118,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-112,Casa,Leo Izidoro,Interceptação,76,1,76,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-113,Casa,Victor Reis,Duelo defensivo,76,21,76,21,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-114,Casa,Lucas Rosario,Interceptação,22,66,22,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-115,Casa,Jhone Costa,Duelo defensivo,26,77,26,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-116,Casa,Matheus Conceição,Duelo defensivo,60,77,60,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-117,Casa,Matheus Conceição,Interceptação,52,77,52,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-118,Casa,Matheus Conceição,Recuperação,52,76,52,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-119,Casa,Matheus Conceição,Passe,53,75,66,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-120,Casa,Kaique Clemente,Duelo defensivo,114,72,114,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-121,Casa,Matheus Rocha,Interceptação,45,78,45,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-122,Casa,Leo Izidoro,Duelo defensivo,53,0,53,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-123,Casa,Leo Izidoro,Duelo defensivo,45,0,45,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-124,Casa,Matheus Maia,Interceptação,31,1,31,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-125,Casa,Jhone Costa,Recuperação,28,38,28,38,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-126,Casa,Jhone Costa,Passe,28,40,26,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-127,Casa,Matheus Rocha,Passe,21,63,34,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-128,Casa,Jhone Costa,Duelo defensivo,26,73,26,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-129,Casa,Jhone Costa,Duelo defensivo,50,71,50,71,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-130,Casa,PH Montavani,Passe,1,50,17,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-131,Casa,Matheus Rocha,Passe,56,53,76,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-132,Casa,Kaique Clemente,Passe,73,61,54,55,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-133,Casa,Matheus Rocha,Passe,54,53,60,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-134,Casa,JP Amaro,Passe,65,1,83,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-135,Casa,Vinícius de Oliveira,Passe,80,14,75,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-136,Casa,Matheus Rocha,Interceptação,66,46,66,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-137,Casa,Matheus Rocha,Recuperação,66,46,66,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-138,Casa,Matheus Rocha,Passe,65,46,73,63,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-139,Casa,Kaique Clemente,Cruzamento,75,59,119,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-140,Casa,PH Montavani,Interceptação,22,40,22,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-141,Casa,PH Montavani,Recuperação,22,40,22,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-142,Casa,PH Montavani,Passe,27,41,37,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-143,Casa,Matheus Rocha,Passe,36,45,45,38,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-144,Casa,Jhone Costa,Passe,64,30,71,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-145,Casa,JP Amaro,Passe,69,1,46,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-146,Casa,Jhone Costa,Passe,53,8,66,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-147,Casa,JP Amaro,Passe,54,18,60,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-148,Casa,PH Montavani,Passe,6,39,9,38,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-149,Casa,Jhone Costa,Passe,28,39,50,60,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-150,Casa,Matheus Rocha,Passe,52,67,76,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-151,Casa,Lucas Rosario,Cruzamento,77,78,111,33,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-152,Casa,Victor Reis,Duelo defensivo,73,76,73,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-153,Casa,Lucas Rosario,Interceptação,57,77,57,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-154,Casa,JP Amaro,Interceptação,26,54,26,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-155,Casa,Matheus Rocha,Interceptação,8,47,8,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-156,Casa,Kaique Clemente,Recuperação,30,50,30,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-157,Casa,Kaique Clemente,Passe,75,73,74,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-158,Casa,Lucas Rosario,Passe,77,78,75,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-159,Casa,Jhone Costa,Passe,73,66,79,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-160,Casa,Matheus Rocha,Interceptação,32,75,32,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-161,Casa,Matheus Rocha,Recuperação,31,74,31,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-162,Casa,Matheus Rocha,Passe,30,75,41,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-163,Casa,Jhone Costa,Passe,39,71,41,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-164,Casa,Leo Izidoro,Duelo defensivo,46,16,46,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-165,Casa,JP Amaro,Duelo defensivo,25,0,2,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-166,Casa,PH Montavani,Duelo defensivo,12,24,24,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-167,Casa,Matheus Rocha,Duelo defensivo,21,65,14,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-168,Casa,PH Montavani,Duelo defensivo,14,40,26,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-169,Casa,JP Amaro,Duelo defensivo,24,1,56,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-170,Casa,Leo Izidoro,Passe,64,28,63,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-171,Casa,Kaique Clemente,Passe,55,54,48,64,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-172,Casa,Matheus Rocha,Passe,49,60,70,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-173,Casa,Lucas Stefanello,Passe,71,56,69,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-174,Casa,Kaique Clemente,Passe,72,50,104,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-175,Casa,Lucas Rosario,Interceptação,26,61,26,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-176,Casa,Victor Reis,Recuperação,63,67,63,67,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-177,Casa,Matheus Rocha,Interceptação,27,74,27,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-178,Casa,Matheus Rocha,Passe,26,76,27,64,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-179,Casa,Jhone Costa,Passe,25,66,16,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-180,Casa,Matheus Rocha,Passe,27,77,27,60,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-181,Casa,Matheus Rocha,Interceptação,2,61,2,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-182,Casa,JP Amaro,Duelo defensivo,61,32,61,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-183,Casa,Marcelo Almeida,Interceptação,57,35,57,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-184,Casa,JP Amaro,Duelo defensivo,62,34,62,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-185,Casa,Marcelo Almeida,Duelo defensivo,58,35,58,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-186,Casa,Victor Reis,Duelo defensivo,53,34,53,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-187,Casa,Marcelo Almeida,Passe,59,13,67,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-188,Casa,Leo Izidoro,Passe,51,14,34,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-189,Casa,Matheus Rocha,Passe,52,49,64,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-190,Casa,Leo Izidoro,Passe,64,37,64,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-191,Casa,JP Amaro,Passe,64,4,52,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-192,Casa,Marcelo Almeida,Passe,56,31,67,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-193,Casa,PH Montavani,Passe,6,40,7,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-194,Casa,Jhone Costa,Passe,7,40,24,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-195,Casa,Victor Moraes,Passe,37,28,56,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-196,Casa,Gabriel Abdias,Passe,55,2,68,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-197,Casa,Vinícius de Oliveira,Passe,71,1,46,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-198,Casa,Jhone Costa,Passe,55,21,46,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-199,Casa,Victor Moraes,Passe,54,47,67,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-200,Casa,Matheus Rocha,Cruzamento,72,76,107,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-201,Casa,Vinícius de Oliveira,Chute,105,22,105,22,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-202,Casa,Vinícius de Oliveira,Interceptação,54,13,54,13,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-203,Casa,Victor Reis,Interceptação,63,27,63,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-204,Casa,Vinícius de Oliveira,Recuperação,69,30,69,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-205,Casa,Vinícius de Oliveira,Passe,75,31,81,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-206,Casa,Lucas Stefanello,Chute,97,54,97,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-207,Casa,Victor Moraes,Passe,85,62,101,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-208,Casa,PH Leite,Duelo defensivo,98,75,98,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-209,Casa,Jhone Costa,Interceptação,30,73,30,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-210,Casa,PH Montavani,Passe,8,46,12,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-211,Casa,Jhone Costa,Passe,20,26,32,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-212,Casa,Victor Reis,Passe,39,27,27,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-213,Casa,Victor Moraes,Passe,51,34,47,15,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-214,Casa,Jhone Costa,Passe,44,15,75,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-215,Casa,Gabriel Abdias,Passe,66,13,39,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-216,Casa,Matheus Rocha,Interceptação,30,58,30,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-217,Casa,PH Montavani,Passe,1,51,3,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-218,Casa,Jhone Costa,Passe,14,29,18,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-219,Casa,Matheus Rocha,Passe,17,50,16,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-220,Casa,Jhone Costa,Passe,11,18,13,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-221,Visitante,Jhone Costa,Gol,6,40,6,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-222,Visitante,Matheus Rocha,Passe,66,55,63,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-223,Visitante,Victor Moraes,Passe,63,44,70,11,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-224,Visitante,Matheus Rocha,Interceptação,41,53,41,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-225,Visitante,Gabriel Abdias,Interceptação,35,18,35,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-226,Visitante,Victor Moraes,Interceptação,49,21,49,21,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-227,Casa,Vinícius de Oliveira,Passe,54,21,60,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-228,Casa,Victor Reis,Passe,54,16,46,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-229,Casa,Jhone Costa,Passe,37,29,37,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-230,Casa,Victor Moraes,Passe,46,51,53,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-231,Casa,Matheus Rocha,Passe,50,66,65,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-232,Casa,Jhone Costa,Passe,29,41,36,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-233,Casa,Victor Moraes,Passe,37,48,62,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-234,Casa,Matheus Rocha,Passe,71,67,53,60,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-235,Casa,Victor Moraes,Passe,56,55,75,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-236,Casa,Vinícius de Oliveira,Passe,83,25,80,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-237,Casa,Victor Reis,Passe,83,17,99,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-238,Casa,Gabriel Abdias,Passe,100,2,66,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-239,Casa,Jhone Costa,Passe,70,36,77,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-240,Casa,Matheus Rocha,Passe,94,46,97,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-241,Casa,Kaique Clemente,Chute,97,34,97,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-242,Casa,Victor Moraes,Recuperação,90,32,90,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-243,Casa,Victor Moraes,Passe,90,34,66,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-244,Casa,Jhone Costa,Chute,82,42,82,42,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-245,Casa,Kaique Clemente,Cruzamento,120,79,118,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-246,Casa,Matheus Conceição,Passe,112,19,102,19,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-247,Casa,PH Montavani,Passe,2,47,6,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-248,Casa,Jhone Costa,Passe,7,18,20,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-249,Casa,PH Leite,Duelo defensivo,24,53,24,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-250,Casa,Lucas Stefanello,Interceptação,24,75,24,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-251,Casa,Matheus Maia,Cruzamento,108,1,111,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-252,Casa,Marcelo Almeida,Interceptação,54,73,54,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-253,Casa,Lucas Rosario,Interceptação,30,73,30,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-254,Casa,Lucas Rosario,Passe,28,68,33,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-255,Casa,Matheus Rocha,Recuperação,27,79,27,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-256,Casa,Matheus Rocha,Passe,36,64,55,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-257,Casa,Matheus Conceição,Passe,73,68,66,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-258,Casa,Lucas Rosario,Interceptação,30,53,30,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-259,Casa,Lucas Rosario,Passe,44,57,62,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-260,Casa,Leo Izidoro,Passe,32,2,38,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-261,Casa,Victor Reis,Passe,48,52,42,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-262,Casa,Matheus Rocha,Passe,44,59,43,38,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-263,Casa,Marcelo Almeida,Passe,47,34,60,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-264,Casa,JP Amaro,Passe,60,3,51,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-265,Casa,Marcelo Almeida,Passe,65,33,89,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-266,Casa,Lucas Rosario,Passe,92,51,74,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-267,Casa,Matheus Rocha,Cruzamento,85,64,107,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-268,Casa,Marcelo Almeida,Interceptação,80,41,80,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-269,Casa,Marcelo Almeida,Passe,77,40,85,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-270,Casa,Victor Reis,Passe,83,53,97,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-271,Casa,PH Montavani,Passe,31,42,50,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-272,Casa,Matheus Rocha,Passe,50,54,61,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-273,Casa,Marcelo Almeida,Passe,65,46,106,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-274,Casa,Victor Reis,Duelo defensivo,83,4,83,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-275,Casa,Matheus Conceição,Duelo defensivo,101,40,101,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-276,Casa,JP Amaro,Interceptação,7,31,7,31,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-277,Casa,Kaique Clemente,Cruzamento,119,77,117,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-278,Casa,Matheus Rocha,Cabeceio,117,43,117,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-279,Casa,Victor Reis,Interceptação,62,32,62,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-280,Casa,Jonathan Camargo,Interceptação,83,29,83,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-281,Casa,Matheus Rocha,Interceptação,46,73,46,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-282,Casa,Matheus Rocha,Recuperação,47,74,47,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-283,Casa,Lucas Stefanello,Passe,91,72,94,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-284,Casa,Matheus Rocha,Passe,95,62,90,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-285,Casa,Lucas Stefanello,Passe,91,51,94,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
-286,Casa,Matheus Rocha,Passe,96,61,83,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1
+,time,posicao,evento,InicioMin,FimMin,Tempo,x,y,x2,y2,jogo,ano
+0,Casa,JP Amaro,Interceptação,0,1,1,30,31,30,31,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+1,Casa,Victor Reis,Recuperação,0,1,1,55,32,55,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+2,Casa,Victor Reis,Duelo defensivo,0,1,1,55,32,55,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+3,Casa,Matheus Maia,Duelo defensivo,0,1,1,60,23,60,23,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+4,Casa,Victor Reis,Recuperação,0,1,1,68,15,68,15,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+5,Casa,Matheus Maia,Duelo defensivo,0,1,1,56,5,56,5,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+6,Casa,Matheus Maia,Passe certo,0,1,1,44,6,34,12,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+7,Casa,JP Amaro,Passe certo,0,1,1,19,11,3,31,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+8,Casa,PH Montavani,Passe certo,0,1,1,3,32,6,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+9,Casa,Matheus Rocha,Passe errado,0,1,1,20,41,68,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+10,Casa,Matheus Maia,Duelo defensivo,0,1,1,64,7,64,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+11,Casa,Matheus Maia,Duelo defensivo,0,1,1,58,5,58,5,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+12,Casa,JP Amaro,Passe certo,0,1,1,49,9,37,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+66,Casa,Matheus Rocha,Passe certo,1,2,1,37,42,32,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+67,Casa,Marcelo Almeida,Passe certo,1,2,1,43,36,46,10,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+68,Casa,JP Amaro,Passe certo,1,2,1,54,6,96,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+69,Casa,Matheus Maia,Passe certo,1,2,1,97,15,89,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+70,Casa,Victor Reis,Passe errado,1,2,1,88,24,104,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+71,Casa,Lucas Rosario,Recuperação,1,2,1,105,77,105,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+72,Casa,Lucas Rosario,Passe certo,1,2,1,105,77,110,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+73,Casa,Matheus Conceição,Chute,1,2,1,120,58,120,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+74,Casa,Leo Izidoro,Interceptação,1,2,1,55,10,55,10,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+115,Casa,JP Amaro,Passe certo,2,3,1,49,8,38,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+116,Casa,Marcelo Almeida,Passe certo,2,3,1,47,41,58,22,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+117,Casa,Victor Reis,Passe certo,2,3,1,61,14,50,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+118,Casa,JP Amaro,Passe certo,2,3,1,52,8,13,36,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+119,Casa,PH Montavani,Passe certo,2,3,1,14,33,37,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+120,Casa,Matheus Rocha,Passe certo,2,3,1,40,76,35,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+121,Casa,Marcelo Almeida,Passe certo,2,3,1,41,40,46,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+122,Casa,JP Amaro,Passe errado,2,3,1,55,7,74,15,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+123,Casa,Kaique Clemente,Duelo defensivo,2,3,1,26,79,26,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+124,Casa,Kaique Clemente,Recuperação,2,3,1,17,79,17,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+125,Casa,Kaique Clemente,Passe certo,2,3,1,19,78,49,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+209,Casa,Matheus Conceição,Duelo defensivo,3,4,1,108,79,108,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+210,Casa,JP Amaro,Interceptação,3,4,1,48,57,48,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+245,Casa,Marcelo Almeida,Passe certo,4,5,1,47,48,42,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+246,Casa,JP Amaro,Passe certo,4,5,1,42,33,52,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+247,Casa,Matheus Rocha,Passe certo,4,5,1,56,67,45,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+248,Casa,Marcelo Almeida,Passe certo,4,5,1,49,47,56,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+249,Casa,JP Amaro,Passe certo,4,5,1,63,17,53,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+250,Casa,Marcelo Almeida,Passe certo,4,5,1,60,28,101,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+251,Casa,Lucas Rosario,Duelo defensivo,4,5,1,52,77,52,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+252,Casa,Matheus Rocha,Interceptação,5,6,1,20,77,20,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+253,Casa,Matheus Rocha,Recuperação,5,6,1,21,76,21,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+254,Casa,Matheus Rocha,Passe certo,5,6,1,21,76,20,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+255,Casa,JP Amaro,Passe certo,5,6,1,21,58,15,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+256,Casa,Leo Izidoro,Passe errado,5,6,1,40,21,62,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+257,Casa,Victor Reis,Duelo defensivo,5,6,1,39,40,39,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+258,Casa,PH Montavani,Recuperação,5,6,1,12,48,12,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+259,Casa,PH Montavani,Passe certo,5,6,1,13,48,26,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+260,Casa,Leo Izidoro,Passe certo,5,6,1,42,5,55,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+261,Casa,Matheus Maia,Passe certo,5,6,1,57,4,57,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+262,Casa,Victor Reis,Passe certo,5,6,1,58,12,50,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+263,Casa,Leo Izidoro,Passe certo,5,6,1,52,9,60,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+264,Casa,Matheus Maia,Passe certo,5,6,1,60,4,74,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+265,Casa,Victor Reis,Duelo defensivo,5,6,1,79,13,79,13,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+266,Casa,Matheus Maia,Recuperação,5,6,1,86,7,86,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+267,Casa,Matheus Maia,Duelo defensivo,5,6,1,89,17,89,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+268,Casa,Marcelo Almeida,Duelo defensivo,5,6,1,80,34,80,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+269,Casa,Victor Reis,Duelo defensivo,5,6,1,89,27,89,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+270,Casa,JP Amaro,Interceptação,6,7,1,55,26,55,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+271,Casa,JP Amaro,Recuperação,6,7,1,55,27,55,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+272,Casa,JP Amaro,Passe certo,6,7,1,56,26,64,31,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+273,Casa,Marcelo Almeida,Passe certo,6,7,1,69,45,65,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+274,Casa,Matheus Rocha,Passe certo,6,7,1,68,65,59,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+275,Casa,Marcelo Almeida,Passe certo,6,7,1,57,31,66,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+276,Casa,JP Amaro,Passe certo,6,7,1,71,16,62,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+277,Casa,Marcelo Almeida,Passe certo,6,7,1,62,30,69,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+278,Casa,Kaique Clemente,Passe certo,6,7,1,77,54,90,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+279,Casa,Marcelo Almeida,Interceptação,6,7,1,81,63,81,63,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+280,Casa,Victor Reis,Recuperação,6,7,1,84,51,84,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+281,Casa,Victor Reis,Passe certo,6,7,1,82,46,80,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+282,Casa,Leo Izidoro,Passe certo,6,7,1,86,31,81,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+283,Casa,Victor Reis,Passe errado,6,7,1,80,35,114,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+284,Casa,JP Amaro,Duelo defensivo,7,8,1,65,15,65,15,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+285,Casa,Leo Izidoro,Duelo defensivo,7,8,1,53,11,53,11,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+286,Casa,Leo Izidoro,Duelo defensivo,7,8,1,50,10,50,10,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+287,Casa,Matheus Maia,Interceptação,7,8,1,52,2,52,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+288,Casa,Victor Reis,Interceptação,7,8,1,55,6,55,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+289,Casa,Victor Reis,Recuperação,7,8,1,56,6,56,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+290,Casa,Victor Reis,Passe certo,7,8,1,55,6,55,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+291,Casa,Leo Izidoro,Duelo defensivo,8,9,1,39,8,39,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+292,Casa,Victor Reis,Duelo defensivo,8,9,1,49,6,49,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+293,Casa,Matheus Rocha,Recuperação,8,9,1,26,29,26,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+294,Casa,Matheus Rocha,Passe certo,8,9,1,23,31,21,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+295,Casa,Lucas Rosario,Passe certo,8,9,1,34,62,29,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+296,Casa,Matheus Rocha,Passe certo,8,9,1,38,40,38,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+297,Casa,JP Amaro,Passe certo,8,9,1,46,11,31,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+298,Casa,Matheus Rocha,Passe certo,8,9,1,25,40,45,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+299,Casa,Marcelo Almeida,Passe certo,8,9,1,44,37,43,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+300,Casa,JP Amaro,Passe certo,8,9,1,42,10,25,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+301,Casa,Matheus Rocha,Passe certo,8,9,1,25,57,34,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+302,Casa,Lucas Rosario,Passe errado,9,10,1,28,77,47,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+303,Casa,Marcelo Almeida,Duelo defensivo,9,10,1,35,68,35,68,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+304,Casa,JP Amaro,Interceptação,9,10,1,21,72,21,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+305,Casa,Lucas Rosario,Recuperação,9,10,1,20,70,20,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+306,Casa,Lucas Rosario,Passe certo,9,10,1,39,67,58,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+307,Casa,Matheus Rocha,Passe certo,9,10,1,43,64,30,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+308,Casa,JP Amaro,Passe certo,9,10,1,32,40,48,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+309,Casa,Leo Izidoro,Passe certo,9,10,1,50,17,34,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+310,Casa,JP Amaro,Passe certo,9,10,1,36,40,39,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+311,Casa,Matheus Rocha,Passe certo,9,10,1,49,72,36,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+312,Casa,JP Amaro,Passe certo,9,10,1,35,41,45,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+13,Casa,Lucas Rosario,Passe errado,10,11,1,51,13,82,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+14,Casa,PH Montavani,Passe certo,10,11,1,13,44,16,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+15,Casa,Marcelo Almeida,Passe certo,11,12,1,27,39,52,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+16,Casa,Matheus Rocha,Passe errado,11,12,1,75,80,83,80,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+17,Casa,Matheus Rocha,Recuperação,11,12,1,55,70,55,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+18,Casa,Matheus Rocha,Passe certo,11,12,1,55,70,41,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+19,Casa,Leo Izidoro,Passe certo,11,12,1,43,37,45,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+20,Casa,JP Amaro,Passe certo,11,12,1,46,34,40,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+21,Casa,Leo Izidoro,Passe certo,11,12,1,42,13,43,71,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+22,Casa,Matheus Rocha,Passe errado,11,12,1,55,65,115,19,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+23,Casa,Lucas Rosario,Interceptação,12,13,1,65,77,65,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+24,Casa,Matheus Rocha,Duelo defensivo,12,13,1,52,74,52,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+25,Casa,Marcelo Almeida,Duelo defensivo,12,13,1,24,80,24,80,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+26,Casa,JP Amaro,Interceptação,13,14,1,2,35,2,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+27,Casa,JP Amaro,Interceptação,14,15,1,8,36,8,36,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+28,Casa,Victor Reis,Duelo defensivo,14,15,1,19,3,19,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+29,Casa,Matheus Rocha,Passe certo,15,16,1,16,62,16,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+30,Casa,JP Amaro,Passe certo,15,16,1,16,33,20,11,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+31,Casa,Leo Izidoro,Passe certo,15,16,1,30,12,19,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+32,Casa,JP Amaro,Passe certo,15,16,1,36,41,44,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+33,Casa,Matheus Rocha,Passe certo,15,16,1,52,75,35,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+34,Casa,JP Amaro,Passe certo,15,16,1,41,49,43,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+35,Casa,Leo Izidoro,Passe certo,15,16,1,41,11,36,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+36,Casa,JP Amaro,Passe certo,15,16,1,38,46,52,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+37,Casa,Matheus Rocha,Passe certo,15,16,1,74,73,87,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+38,Casa,Matheus Conceição,Duelo defensivo,15,16,1,105,69,105,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+39,Casa,Matheus Rocha,Interceptação,16,17,1,42,64,42,64,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+40,Casa,Leo Izidoro,Interceptação,17,18,1,6,15,6,15,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+41,Casa,Marcelo Almeida,Passe certo,17,18,1,16,2,74,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+42,Casa,Marcelo Almeida,Passe certo,17,18,1,68,16,44,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+43,Casa,Matheus Rocha,Passe certo,17,18,1,54,42,65,25,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+44,Casa,Victor Reis,Passe certo,17,18,1,68,25,60,12,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+45,Casa,JP Amaro,Passe errado,17,18,1,71,20,81,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+46,Casa,JP Amaro,Recuperação,17,18,1,15,45,15,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+47,Casa,JP Amaro,Passe certo,17,18,1,15,44,10,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+48,Casa,PH Montavani,Passe errado,18,19,1,8,46,30,80,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+49,Casa,Lucas Rosario,Interceptação,18,19,1,24,62,24,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+50,Casa,Victor Reis,Duelo defensivo,18,19,1,28,57,28,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+51,Casa,PH Montavani,Passe certo,18,19,1,7,41,13,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+52,Casa,Matheus Rocha,Passe certo,19,20,1,38,46,46,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+53,Casa,JP Amaro,Passe errado,19,20,1,49,11,72,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+54,Casa,Matheus Maia,Passe certo,19,20,1,67,11,36,42,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+55,Casa,Matheus Rocha,Passe certo,19,20,1,48,45,53,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+56,Casa,Lucas Rosario,Passe certo,19,20,1,58,74,48,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+57,Casa,Matheus Rocha,Passe certo,19,20,1,55,43,61,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+58,Casa,JP Amaro,Passe certo,19,20,1,56,18,40,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+59,Casa,Matheus Rocha,Passe certo,19,20,1,43,40,60,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+60,Casa,Marcelo Almeida,Passe certo,19,20,1,71,43,65,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+61,Casa,Lucas Rosario,Passe certo,19,20,1,66,76,83,80,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+62,Casa,Matheus Conceição,Passe errado,19,20,1,83,80,87,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+63,Casa,Marcelo Almeida,Duelo defensivo,19,20,1,93,79,93,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+64,Casa,Marcelo Almeida,Recuperação,19,20,1,91,79,91,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+65,Casa,Marcelo Almeida,Passe certo,19,20,1,90,79,84,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+75,Casa,Kaique Clemente,Cruzamento,20,21,1,95,70,119,36,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+76,Casa,Leo Izidoro,Interceptação,21,22,1,35,28,35,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+77,Casa,Victor Reis,Recuperação,21,22,1,46,12,46,12,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+78,Casa,Victor Reis,Passe certo,21,22,1,37,10,22,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+79,Casa,Leo Izidoro,Duelo defensivo,21,22,1,17,24,17,24,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+80,Casa,PH Montavani,Interceptação,21,22,1,11,30,11,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+81,Casa,Kaique Clemente,Duelo defensivo,21,22,1,16,57,16,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+82,Casa,Lucas Rosario,Recuperação,21,22,1,27,55,27,55,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+83,Casa,Lucas Rosario,Passe certo,21,22,1,27,55,50,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+84,Casa,Matheus Conceição,Passe certo,21,22,1,50,79,41,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+85,Casa,Kaique Clemente,Passe certo,21,22,1,45,79,66,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+86,Casa,Matheus Conceição,Duelo defensivo,21,22,1,105,79,105,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+87,Casa,Matheus Rocha,Passe certo,22,23,1,68,80,76,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+88,Casa,Victor Reis,Passe certo,22,23,1,78,61,85,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+89,Casa,Kaique Clemente,Passe errado,22,23,1,85,58,89,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+90,Casa,Marcelo Almeida,Passe certo,22,23,1,100,70,99,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+91,Casa,Lucas Rosario,Passe certo,22,23,1,97,79,68,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+92,Casa,Matheus Rocha,Passe certo,22,23,1,68,75,63,67,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+93,Casa,JP Amaro,Passe certo,22,23,1,65,60,77,24,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+94,Casa,Leo Izidoro,Duelo defensivo,22,23,1,71,17,71,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+95,Casa,Matheus Maia,Duelo defensivo,22,23,1,80,11,80,11,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+96,Casa,Matheus Maia,Duelo defensivo,22,23,1,94,2,94,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+97,Casa,Kaique Clemente,Duelo defensivo,22,23,1,110,45,110,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+98,Casa,Matheus Rocha,Interceptação,23,24,1,58,49,58,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+99,Casa,Matheus Rocha,Recuperação,23,24,1,58,49,58,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+100,Casa,Matheus Rocha,Passe certo,23,24,1,66,47,76,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+101,Casa,Marcelo Almeida,Passe certo,23,24,1,78,63,86,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+102,Casa,Lucas Rosario,Cruzamento,23,24,1,94,79,116,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+103,Casa,Victor Reis,Interceptação,23,24,1,92,16,92,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+104,Casa,Matheus Maia,Recuperação,23,24,1,89,14,89,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+105,Casa,Victor Reis,Duelo defensivo,23,24,1,84,26,84,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+106,Casa,Kaique Clemente,Cruzamento,24,25,1,87,41,120,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+107,Casa,Lucas Rosario,Duelo defensivo,28,29,1,16,77,16,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+108,Casa,Marcelo Almeida,Duelo defensivo,28,29,1,17,80,17,80,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+109,Casa,Matheus Rocha,Interceptação,28,29,1,7,60,7,60,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+110,Casa,Matheus Rocha,Passe certo,28,29,1,5,59,6,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+111,Casa,Lucas Rosario,Duelo defensivo,29,30,1,7,62,7,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+112,Casa,Leo Izidoro,Interceptação,29,30,1,2,37,2,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+113,Visitante,Leo Izidoro,Chute,29,30,1,17,58,17,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+114,Casa,PH Montavani,Defesa,29,30,1,17,57,17,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+126,Casa,PH Montavani,Passe certo,30,31,1,12,45,16,71,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+127,Casa,Lucas Rosario,Passe certo,30,31,1,31,77,53,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+128,Casa,Kaique Clemente,Duelo defensivo,30,31,1,58,79,58,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+129,Casa,Kaique Clemente,Passe errado,30,31,1,58,76,82,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+130,Casa,Lucas Rosario,Passe certo,30,31,1,56,79,50,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+131,Casa,Matheus Rocha,Passe certo,30,31,1,55,75,50,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+132,Casa,Marcelo Almeida,Passe certo,30,31,1,53,44,63,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+133,Casa,JP Amaro,Passe certo,30,31,1,66,8,50,24,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+134,Casa,Marcelo Almeida,Passe certo,30,31,1,64,31,56,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+135,Casa,Matheus Rocha,Passe certo,30,31,1,73,71,56,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+136,Casa,Marcelo Almeida,Passe certo,30,31,1,76,33,83,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+137,Casa,Victor Reis,Passe errado,30,31,1,83,50,90,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+138,Casa,Victor Reis,Recuperação,30,31,1,85,43,85,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+139,Casa,Kaique Clemente,Recuperação,31,32,1,91,40,91,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+140,Casa,Matheus Rocha,Passe certo,31,32,1,53,48,14,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+141,Casa,PH Montavani,Passe certo,31,32,1,14,41,22,22,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+142,Casa,JP Amaro,Passe certo,31,32,1,21,22,36,36,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+143,Casa,Marcelo Almeida,Passe certo,31,32,1,40,38,56,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+144,Casa,Matheus Rocha,Passe certo,31,32,1,66,74,56,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+145,Casa,Marcelo Almeida,Passe certo,31,32,1,62,46,78,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+146,Casa,Kaique Clemente,Passe certo,31,32,1,78,53,87,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+147,Casa,JP Amaro,Recuperação,31,32,1,17,8,17,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+148,Casa,JP Amaro,Passe certo,31,32,1,17,8,4,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+149,Casa,PH Montavani,Passe certo,31,32,1,11,30,36,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+150,Casa,Marcelo Almeida,Passe certo,32,33,1,43,56,52,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+151,Casa,Matheus Rocha,Passe certo,32,33,1,54,78,59,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+152,Casa,Kaique Clemente,Passe certo,32,33,1,58,48,50,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+153,Casa,Marcelo Almeida,Passe certo,32,33,1,42,55,16,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+154,Casa,PH Montavani,Passe certo,32,33,1,17,36,27,42,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+155,Casa,Marcelo Almeida,Passe errado,32,33,1,40,38,78,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+156,Casa,Kaique Clemente,Duelo defensivo,32,33,1,66,49,66,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+157,Casa,Matheus Conceição,Duelo defensivo,32,33,1,78,52,78,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+158,Casa,PH Montavani,Recuperação,32,33,1,15,61,15,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+159,Casa,PH Montavani,Passe certo,32,33,1,15,61,46,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+160,Casa,Matheus Rocha,Passe certo,32,33,1,47,76,41,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+161,Casa,Marcelo Almeida,Passe certo,32,33,1,46,48,58,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+162,Casa,Matheus Maia,Duelo defensivo,32,33,1,56,16,56,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+163,Casa,JP Amaro,Duelo defensivo,32,33,1,56,26,56,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+164,Casa,Victor Reis,Duelo defensivo,33,34,1,15,4,15,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+165,Casa,JP Amaro,Interceptação,34,35,1,12,49,12,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+166,Casa,Victor Reis,Interceptação,34,35,1,15,48,15,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+167,Casa,Matheus Conceição,Recuperação,34,35,1,25,53,25,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+168,Casa,Victor Reis,Duelo defensivo,34,35,1,35,55,35,55,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+169,Casa,Victor Reis,Duelo defensivo,34,35,1,41,56,41,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+170,Casa,Lucas Rosario,Interceptação,34,35,1,11,50,11,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+171,Casa,Lucas Rosario,Recuperação,34,35,1,11,50,11,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+172,Casa,Lucas Rosario,Passe errado,34,35,1,11,50,52,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+173,Casa,Matheus Conceição,Interceptação,34,35,1,51,70,51,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+174,Casa,Leo Izidoro,Interceptação,35,36,1,21,20,21,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+175,Casa,Marcelo Almeida,Passe certo,35,36,1,35,31,37,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+176,Casa,Matheus Rocha,Passe certo,35,36,1,55,64,44,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+177,Casa,Marcelo Almeida,Passe certo,35,36,1,47,44,60,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+178,casa,JP Amaro,Passe errado,35,36,1,70,13,120,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+179,Casa,Matheus Conceição,Duelo defensivo,36,37,1,113,79,113,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+180,Casa,Leo Izidoro,Duelo defensivo,36,37,1,45,4,45,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+181,Casa,Matheus Maia,Duelo defensivo,36,37,1,56,2,56,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+182,Casa,Victor Reis,Duelo defensivo,36,37,1,57,8,57,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+183,Casa,Matheus Maia,Duelo defensivo,36,37,1,61,6,61,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+184,Casa,PH Montavani,Recuperação,37,38,1,10,55,10,55,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+185,Casa,PH Montavani,Passe certo,37,38,1,10,55,11,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+186,Casa,Matheus Rocha,Passe certo,37,38,1,26,53,21,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+187,Casa,Marcelo Almeida,Passe certo,37,38,1,34,35,35,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+188,Casa,JP Amaro,Passe certo,37,38,1,40,4,8,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+189,Casa,PH Montavani,Passe certo,38,39,1,13,47,45,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+190,Casa,Matheus Rocha,Passe certo,38,39,1,48,77,54,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+191,Casa,Kaique Clemente,Passe certo,38,39,1,56,46,90,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+192,Casa,Leo Izidoro,Passe certo,38,39,1,94,5,81,13,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+193,Casa,Victor Reis,Passe certo,38,39,1,87,16,87,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+194,Casa,Kaique Clemente,Passe certo,38,39,1,85,16,85,10,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+195,Casa,Victor Reis,Passe certo,38,39,1,78,13,90,12,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+196,Casa,Kaique Clemente,Passe certo,38,39,1,76,24,60,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+197,Casa,Matheus Rocha,Passe certo,38,39,1,67,69,89,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+198,Casa,Matheus Conceição,Recuperação,38,39,1,86,56,86,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+199,Casa,Matheus Conceição,Chute,38,39,1,94,44,94,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+200,Casa,Kaique Clemente,Recuperação,38,39,1,89,51,89,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+201,Casa,Victor Reis,Interceptação,38,39,1,66,35,66,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+202,Casa,Victor Reis,Recuperação,38,39,1,66,34,66,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+203,Casa,Victor Reis,Passe certo,39,40,1,85,16,76,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+204,Casa,Matheus Maia,Passe certo,39,40,1,85,27,98,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+205,Casa,Leo Izidoro,Passe certo,39,40,1,101,8,88,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+206,Casa,Victor Reis,Passe certo,39,40,1,86,14,72,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+207,Casa,Matheus Rocha,Passe certo,39,40,1,80,62,103,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+208,Casa,Lucas Rosario,Cruzamento,39,40,1,107,79,116,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+211,Casa,Matheus Rocha,Interceptação,40,41,1,45,57,45,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+212,Casa,JP Amaro,Recuperação,40,41,1,23,39,23,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+213,Casa,JP Amaro,Passe certo,40,41,1,23,39,8,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+214,Casa,PH Montavani,Passe certo,40,41,1,9,40,18,25,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+215,Casa,JP Amaro,Passe certo,40,41,1,19,25,23,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+216,Casa,Marcelo Almeida,Passe certo,40,41,1,38,35,51,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+217,Casa,Matheus Rocha,Passe certo,40,41,1,52,77,67,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+218,Casa,Lucas Rosario,Passe certo,40,41,1,69,78,88,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+219,Casa,Matheus Conceição,Passe certo,40,41,1,92,77,83,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+220,Casa,Lucas Rosario,Passe certo,40,41,1,99,72,102,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+221,Casa,Matheus Conceição,Passe certo,40,41,1,97,79,90,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+222,Casa,Lucas Rosario,Passe certo,40,41,1,90,57,82,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+223,Casa,Marcelo Almeida,Chute,40,41,1,87,46,87,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+224,Casa,Lucas Rosario,Duelo defensivo,41,42,1,6,62,6,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+225,Casa,Kaique Clemente,Duelo defensivo,41,42,1,43,79,43,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+226,Casa,PH Montavani,Passe errado,41,42,1,7,47,68,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+227,Casa,Lucas Rosario,Duelo defensivo,42,43,1,6,62,6,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+228,Casa,Kaique Clemente,Duelo defensivo,42,43,1,43,79,43,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+229,Casa,Leo Izidoro,Duelo defensivo,42,43,1,54,6,54,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+230,Casa,Victor Reis,Recuperação,42,43,1,44,24,44,24,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+231,Casa,Victor Reis,Passe certo,42,43,1,44,24,44,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+232,Casa,Marcelo Almeida,Passe certo,42,43,1,53,31,49,25,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+233,Casa,Victor Reis,Passe errado,42,43,1,58,25,58,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+234,Casa,Matheus Rocha,Duelo defensivo,43,44,1,24,51,24,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+235,Casa,PH Montavani,Gol sofrido,44,45,1,23,53,23,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+236,Casa,Marcelo Almeida,Passe certo,45,46,1,44,47,53,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+237,Casa,Matheus Rocha,Passe certo,45,46,1,56,68,47,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+238,Casa,Marcelo Almeida,Passe certo,45,46,1,54,49,62,21,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+239,Casa,Victor Reis,Passe certo,45,46,1,76,21,89,14,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+240,Casa,Kaique Clemente,Assistência,46,47,1,89,19,113,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+241,Casa,Matheus Rocha,Gol,46,47,1,113,46,113,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+242,Casa,Marcelo Almeida,Interceptação,47,48,1,81,52,81,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+243,Casa,Matheus Conceição,Duelo defensivo,47,48,1,115,72,115,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+244,Casa,Kaique Clemente,Cruzamento,49,50,1,116,77,118,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+319,Casa,Marcelo Almeida,Passe certo,0,1,2,37,40,45,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+320,Casa,Matheus Rocha,Passe certo,0,1,2,42,73,18,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+321,Casa,PH Montavani,Passe certo,0,1,2,20,53,29,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+322,Casa,Marcelo Almeida,Passe certo,0,1,2,35,38,48,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+323,Casa,JP Amaro,Passe certo,0,1,2,50,4,37,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+324,Casa,Marcelo Almeida,Passe certo,0,1,2,45,34,42,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+325,Casa,Matheus Rocha,Passe certo,0,1,2,39,71,40,42,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+326,Casa,Marcelo Almeida,Passe certo,0,1,2,52,32,56,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+327,Casa,JP Amaro,Passe certo,0,1,2,52,1,44,11,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+328,Casa,Marcelo Almeida,Passe certo,0,1,2,53,32,65,67,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+329,Casa,Matheus Rocha,Passe certo,0,1,2,67,66,56,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+330,Casa,Marcelo Almeida,Passe certo,0,1,2,63,46,79,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+331,Casa,Kaique Clemente,Passe certo,0,1,2,89,65,108,68,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+332,Casa,Matheus Conceição,Passe certo,0,1,2,102,72,93,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+333,Casa,Kaique Clemente,Cruzamento,0,1,2,91,65,116,33,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+334,Casa,Jonathan Camargo,Cabeceio,0,1,2,117,32,117,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+403,Casa,JP Amaro,Duelo defensivo,1,2,2,59,35,59,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+465,Casa,Kaique Clemente,Duelo defensivo,2,3,2,60,30,60,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+466,Casa,JP Amaro,Interceptação,2,3,2,15,19,15,19,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+467,Casa,JP Amaro,Recuperação,2,3,2,4,1,4,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+468,Casa,JP Amaro,Passe certo,2,3,2,5,1,43,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+469,Casa,Kaique Clemente,Passe certo,2,3,2,78,14,89,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+470,Casa,Jonathan Camargo,Passe certo,2,3,2,88,11,89,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+471,Casa,Matheus Maia,Passe certo,2,3,2,84,1,78,12,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+472,Casa,Victor Reis,Duelo defensivo,2,3,2,70,18,70,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+473,Casa,Victor Reis,Duelo defensivo,2,3,2,67,20,67,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+474,Casa,Victor Reis,Recuperação,2,3,2,67,20,67,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+475,Casa,Victor Reis,Passe certo,2,3,2,66,21,71,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+476,Casa,Matheus Maia,Passe certo,2,3,2,79,2,66,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+477,Casa,Victor Reis,Passe certo,2,3,2,79,16,88,10,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+478,Casa,Matheus Maia,Passe errado,2,3,2,88,10,93,19,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+524,Casa,JP Amaro,Duelo defensivo,3,4,2,61,32,61,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+525,Casa,Marcelo Almeida,Interceptação,3,4,2,57,35,57,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+526,Casa,JP Amaro,Duelo defensivo,3,4,2,62,34,62,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+527,Casa,Marcelo Almeida,Duelo defensivo,3,4,2,58,35,58,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+528,Casa,Victor Reis,Duelo defensivo,3,4,2,53,34,53,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+529,Casa,Marcelo Almeida,Passe certo,3,4,2,59,13,67,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+530,Casa,Leo Izidoro,Passe certo,3,4,2,51,14,34,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+531,Casa,Matheus Rocha,Passe certo,3,4,2,52,49,64,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+532,Casa,Leo Izidoro,Passe certo,3,4,2,64,37,64,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+533,Casa,JP Amaro,Passe certo,3,4,2,64,4,52,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+534,Casa,Marcelo Almeida,Passe certo,3,4,2,56,31,67,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+535,Casa,Matheus Rocha,Passe errado,3,4,2,73,68,112,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+606,Casa,Kaique Clemente,Cruzamento,4,5,2,120,79,118,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+607,Casa,Matheus Conceição,Passe certo,4,5,2,112,19,102,19,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+608,Casa,Matheus Maia,Duelo defensivo,4,5,2,111,5,111,5,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+615,Casa,Matheus Maia,Cruzamento,5,6,2,108,1,111,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+616,Casa,Marcelo Almeida,Interceptação,5,6,2,54,73,54,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+617,Casa,Lucas Rosario,Interceptação,6,7,2,30,73,30,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+618,Casa,Lucas Rosario,Passe certo,6,7,2,28,68,33,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+619,Casa,Matheus Rocha,Recuperação,6,7,2,27,79,27,79,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+620,Casa,Matheus Rocha,Passe certo,6,7,2,36,64,55,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+621,Casa,Matheus Conceição,Passe certo,6,7,2,73,68,66,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+622,Casa,Lucas Rosario,Interceptação,6,7,2,30,53,30,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+623,Casa,Lucas Rosario,Passe certo,6,7,2,44,57,62,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+624,Casa,Kaique Clemente,Passe certo,6,7,2,65,72,78,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+625,Casa,Kaique Clemente,Recuperação,7,8,2,99,77,99,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+626,Casa,Kaique Clemente,Duelo defensivo,7,8,2,99,77,99,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+627,Casa,Leo Izidoro,Passe certo,7,8,2,32,2,38,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+628,Casa,JP Amaro,Pase certo,7,8,2,38,29,41,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+629,Casa,Victor Reis,Passe certo,7,8,2,48,52,42,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+630,Casa,Matheus Rocha,Passe certo,7,8,2,44,59,43,38,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+631,Casa,Marcelo Almeida,Passe certo,7,8,2,47,34,60,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+632,Casa,JP Amaro,Passe certo,7,8,2,60,3,51,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+633,Casa,Marcelo Almeida,Passe certo,7,8,2,65,33,89,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+634,Casa,Lucas Rosario,Passe certo,7,8,2,92,51,74,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+635,Casa,Matheus Rocha,Cruzamento,8,9,2,85,64,107,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+636,Casa,Marcelo Almeida,Interceptação,8,9,2,80,41,80,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+637,Casa,Marcelo Almeida,Recuperação,8,9,2,80,41,80,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+638,Casa,Marcelo Almeida,Passe certo,8,9,2,80,41,40,92,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+639,Casa,Victor Reis,Passe certo,8,9,2,92,50,99,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+640,Casa,PH Montavani,Recuperação,8,9,2,31,42,31,42,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+641,Casa,PH Montavani,Passe certo,8,9,2,31,42,50,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+642,Casa,Matheus Rocha,Passe certo,8,9,2,50,54,61,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+643,Casa,Marcelo Almeida,Passe certo,8,9,2,65,46,106,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+644,Casa,Victor Reis,Duelo defensivo,8,9,2,83,4,83,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+645,Casa,Matheus Conceição,Duelo defensivo,8,9,2,101,40,101,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+646,Casa,Kaique Clemente,Duelo defensivo,8,9,2,85,31,85,31,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+647,Casa,JP Amaro,Interceptação,9,10,2,7,31,7,31,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+335,Casa,JP Amaro,Passe certo,10,11,2,45,4,35,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+336,Casa,Marcelo Almeida,Passe certo,10,11,2,35,28,46,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+337,Casa,Matheus Rocha,Passe certo,10,11,2,46,70,47,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+338,Casa,Marcelo Almeida,Passe certo,10,11,2,56,53,78,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+339,Casa,Jonathan Camargo,Passe certo,10,11,2,73,31,70,22,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+340,Casa,Leo Izidoro,Passe certo,10,11,2,72,23,77,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+341,Casa,Kaique Clemente,Passe certo,10,11,2,75,45,64,67,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+342,Casa,Matheus Rocha,Passe certo,10,11,2,69,70,79,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+343,Casa,Lucas Rosario,Passe certo,11,12,2,68,72,70,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+344,Casa,Kaique Clemente,Passe certo,11,12,2,64,53,65,23,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+345,Casa,JP Amaro,Passe certo,11,12,2,78,17,98,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+346,Casa,Matheus Maia,Passe certo,11,12,2,100,1,78,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+347,Casa,JP Amaro,Passe certo,11,12,2,77,1,64,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+348,Casa,Marcelo Almeida,Passe certo,11,12,2,62,28,57,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+349,Casa,Matheus Rocha,Passe certo,11,12,2,71,60,117,64,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+350,Casa,Matheus Conceição,Cruzamento,11,12,2,118,57,114,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+351,Casa,Victor Reis,Recuperação,11,12,2,96,19,96,19,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+352,Casa,Victor Reis,Passe certo,11,12,2,104,18,103,23,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+353,Casa,Matheus Maia,Passe errado,11,12,2,103,23,106,19,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+354,Casa,Matheus Maia,Duelo defensivo,11,12,2,98,22,98,22,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+355,Casa,Marcelo Almeida,Recuperação,11,12,2,92,34,92,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+356,Casa,JP Amaro,Recuperação,12,13,2,20,1,20,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+357,Casa,JP Amaro,Passe certo,12,13,2,20,1,6,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+358,Casa,PH Montavani,Passe certo,12,13,2,6,20,17,48,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+359,Casa,PH Montavani,Passe certo,14,15,2,20,40,27,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+360,Casa,Marcelo Almeida,Passe certo,14,15,2,35,38,55,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+361,Casa,JP Amaro,Passe certo,14,15,2,53,4,41,23,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+362,Casa,Marcelo Almeida,Passe certo,14,15,2,51,27,67,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+363,Casa,Leo Izidoro,Passe certo,14,15,2,68,1,75,8,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+364,Casa,Matheus Maia,Passe certo,14,15,2,79,7,84,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+365,Casa,Leo Izidoro,Passe certo,14,15,2,79,3,62,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+366,Casa,JP Amaro,Passe certo,14,15,2,63,3,60,20,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+367,Casa,Marcelo Almeida,Passe certo,14,15,2,66,25,84,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+368,Casa,Matheus Conceição,Recuperação,14,15,2,95,56,95,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+369,Casa,Matheus Conceição,Passe certo,14,15,2,97,54,88,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+370,Casa,Victor Reis,Passe certo,14,15,2,87,40,92,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+371,Casa,Leo Izidoro,Recuperação,14,15,2,101,0,101,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+372,Casa,Victor Reis,Interceptação,15,16,2,87,40,87,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+373,Casa,Lucas Rosario,Recuperação,15,16,2,85,70,85,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+374,Casa,Lucas Rosario,Passe errado,15,16,2,94,74,120,71,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+375,Casa,Marcelo Almeida,Interceptação,15,16,2,47,54,47,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+376,Casa,Matheus Rocha,Interceptação,16,17,2,28,75,28,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+377,Casa,Victor Reis,Duelo defensivo,16,17,2,65,75,65,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+378,Casa,JP Amaro,Duelo defensivo,16,17,2,28,65,28,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+379,Casa,Lucas Rosario,Duelo defensivo,16,17,2,23,63,23,63,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+380,Casa,Lucas Rosario,Interceptação,16,17,2,19,57,19,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+381,Casa,Marcelo Almeida,Duelo defensivo,16,17,2,21,39,21,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+382,Casa,Victor Reis,Duelo defensivo,16,17,2,20,40,20,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+383,Casa,Marcelo Almeida,Passe errado,16,17,2,25,41,39,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+384,Casa,Lucas Rosario,Duelo defensivo,16,17,2,12,65,12,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+385,Casa,Lucas Rosario,Recuperação,16,17,2,9,65,9,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+386,Casa,Lucas Rosario,Passe errado,16,17,2,9,65,35,63,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+387,Casa,Lucas Rosario,Interceptação,16,17,2,21,74,21,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+388,Casa,Matheus Conceição,Recuperação,16,17,2,34,66,34,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+389,Casa,Jonathan Camargo,Recuperação,17,18,2,78,73,78,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+390,Casa,Jonathan Camargo,Passe errado,17,18,2,94,70,94,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+391,Casa,Victor Reis,Duelo defensivo,17,18,2,73,16,73,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+392,Casa,Kaique Clemente,Cruzamento,18,19,2,73,9,114,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+393,Casa,JP Amaro,Cabeceio,18,19,2,115,45,115,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+394,Casa,Victor Reis,Duelo defensivo,18,19,2,67,16,67,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+395,Casa,Jonathan Camargo,Interceptação,18,19,2,57,18,57,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+396,Casa,Marcelo Almeida,Recuperação,18,19,2,51,41,51,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+397,Casa,Marcelo Almeida,Passe errado,19,20,2,52,34,82,23,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+398,Casa,Matheus Rocha,Interceptação,19,20,2,40,40,40,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+399,Casa,Lucas Rosario,Recuperação,19,20,2,21,54,21,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+400,Casa,Lucas Rosario,Interceptação,19,20,2,21,54,21,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+401,Casa,Lucas Rosario,Passe certo,19,20,2,21,54,23,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+402,Casa,Marcelo Almeida,Passe certo,19,20,2,22,39,22,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+404,Casa,JP Amaro,Passe certo,20,21,2,27,73,27,56,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+405,Casa,Jhone Costa,Passe certo,20,21,2,29,41,33,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+406,Casa,JP Amaro,Passe certo,20,21,2,33,16,18,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+407,Xasa,Jhone Costa,Passe errado,20,21,2,18,32,53,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+408,Casa,Lucas Stefanello,Duelo defensivo,20,21,2,43,13,43,13,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+409,Casa,Leo Izidoro,Interceptação,21,22,2,16,27,16,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+410,Casa,Lucas Rosario,Duelo defensivo,21,22,2,16,55,16,55,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+411,Casa,PH Montavani,Passe certo,21,22,2,3,47,8,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+412,Casa,Matheus Rocha,Passe certo,22,23,2,29,50,29,15,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+413,Casa,JP Amaro,Passe certo,22,23,2,30,13,55,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+414,Casa,Leo Izidoro,Passe certo,22,23,2,55,1,53,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+415,Casa,Jhone Costa,Passe errado,22,23,2,51,2,53,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+416,Casa,Jhone Costa,Duelo defensivo,22,23,2,51,3,51,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+417,Casa,Jhone Costa,Duelo defensivo,22,23,2,6,21,6,21,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+418,Casa,Jhone Costa,Passe certo,22,23,2,5,19,18,5,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+419,Casa,Kaique Clemente,Passe certo,22,23,2,22,2,9,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+420,Casa,JP Amaro,Passe certo,22,23,2,7,18,12,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+421,Casa,Matheus Rocha,Passe certo,22,23,2,31,44,31,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+422,Casa,Lucas Rosario,Passe certo,22,23,2,32,70,52,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+423,Casa,Matheus Conceição,Passe certo,22,23,2,53,77,46,69,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+424,Casa,Lucas Rosario,Passe certo,22,23,2,58,59,55,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+425,Casa,Kaique Clemente,Passe certo,22,23,2,58,45,99,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+426,Casa,Lucas Stefanello,Passe certo,22,23,2,103,34,100,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+427,Casa,Kaique Clemente,Chute,22,23,2,103,45,103,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+428,Casa,Jonathan Camargo,Chute,22,23,2,118,35,118,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+429,Casa,Leo Izidoro,Interceptação,23,24,2,76,1,76,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+430,Casa,Leo Izidoro,Recuperação,23,24,2,76,1,76,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+431,Casa,Leo Izidoro,Passe errado,23,24,2,100,1,99,15,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+432,Casa,Victor Reis,Duelo defensivo,23,24,2,76,21,76,21,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+433,Casa,Lucas Rosario,Interceptação,25,26,2,22,66,22,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+434,Casa,Jhone Costa,Duelo defensivo,26,27,2,26,77,26,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+435,Casa,Matheus Conceição,Recuperação,26,27,2,22,78,22,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+436,Casa,Matheus Conceição,Passe errado,26,27,2,25,72,71,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+437,Casa,Matheus Conceição,Duelo defensivo,26,27,2,60,77,60,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+438,Casa,Matheus Conceição,Interceptação,26,27,2,52,77,52,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+439,Casa,Matheus Conceição,Recuperação,26,27,2,52,76,52,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+440,Casa,Matheus Conceição,Passe certo,26,27,2,53,75,66,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+441,Casa,Kaique Clemente,Duelo defensivo,26,27,2,112,63,112,63,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+442,Casa,Kaique Clemente,Duelo defensivo,26,27,2,114,72,114,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+443,Casa,Matheus Rocha,Interceptação,27,28,2,45,78,45,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+444,Casa,Victor Reis,Duelo defensivo,27,28,2,76,62,76,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+445,Casa,Leo Izidoro,Duelo defensivo,27,28,2,53,0,53,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+446,Casa,Leo Izidoro,Duelo defensivo,27,28,2,45,0,45,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+447,Casa,Matheus Maia,Interceptação,28,29,2,31,1,31,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+448,Casa,Jhone Costa,Recuperação,28,29,2,28,38,28,38,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+449,Casa,Jhone Costa,Passe certo,28,29,2,28,40,26,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+450,Casa,Matheus Rocha,Passe certo,28,29,2,21,63,34,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+451,Casa,Matheus Conceição,Passe errado,28,29,2,34,70,42,68,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+452,Casa,Jhone Costa,Duelo defensivo,28,29,2,26,73,26,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+453,Casa,Jhone Costa,Duelo defensivo,28,29,2,50,71,50,71,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+454,Casa,PH Montavani,Passe certo,29,30,2,1,50,17,51,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+455,Casa,Matheus Rocha,Passe certo,29,30,2,56,53,76,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+456,Casa,Kaique Clemente,Passe certo,29,30,2,73,61,54,55,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+457,Casa,Matheus Rocha,Passe certo,29,30,2,54,53,60,6,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+458,Casa,JP Amaro,Passe certo,29,30,2,65,1,83,3,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+459,Casa,Vinícius de Oliveira,Passe certo,29,30,2,80,14,75,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+460,Casa,Victor Reis,Passe errado,29,30,2,82,11,92,11,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+461,Casa,Matheus Rocha,Interceptação,29,30,2,66,46,66,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+462,Casa,Matheus Rocha,Recuperação,29,30,2,66,46,66,46,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+463,Casa,Matheus Rocha,Passe certo,29,30,2,65,46,73,63,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+464,Casa,Kaique Clemente,Cruzamento,29,30,2,75,59,119,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+479,Casa,PH Montavani,Interceptação,30,31,2,22,40,22,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+480,Casa,PH Montavani,Recuperação,30,31,2,22,40,22,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+481,Casa,PH Montavani,Passe certo,30,31,2,27,41,37,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+482,Casa,Matheus Rocha,Passe certo,30,31,2,36,45,45,38,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+483,Casa,Jhone Costa,Passe certo,30,31,2,64,30,71,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+484,Casa,JP Amaro,Passe certo,30,31,2,69,1,46,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+485,Casa,Jhone Costa,Passe certo,30,31,2,53,8,66,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+486,Casa,JP Amaro,Passe certo,30,31,2,54,18,60,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+487,Casa,Matheus Rocha,Passe errado,30,31,2,70,61,116,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+488,Casa,PH Montavani,Passe certo,31,32,2,6,39,9,38,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+489,Casa,Jhone Costa,Passe certo,31,32,2,28,39,50,60,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+490,Casa,Matheus Rocha,Passe certo,31,32,2,52,67,76,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+491,Casa,Lucas Rosario,Cruzamento,31,32,2,77,78,111,33,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+492,Casa,Victor Reis,Duelo defensivo,32,33,2,73,76,73,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+493,Casa,Lucas Rosario,Interceptação,32,33,2,57,77,57,77,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+494,Casa,JP Amaro,Interceptação,32,33,2,26,54,26,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+495,Casa,Matheus Rocha,Interceptação,33,34,2,8,47,8,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+496,Casa,Kaique Clemente,Recuperação,33,34,2,30,50,30,50,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+497,Casa,Kaique Clemente,Passe certo,33,34,2,75,73,74,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+498,Casa,Lucas Rosario,Passe certo,33,34,2,77,78,75,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+499,Casa,Jhone Costa,Passe certo,33,34,2,73,66,79,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+500,Casa,Jhone Costa,Passe certo,34,35,2,39,71,41,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+501,Casa,Matheus Rocha,Interceptação,34,35,2,32,75,32,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+502,Casa,Matheus Rocha,Recuperação,34,35,2,31,74,31,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+503,Casa,Matheus Rocha,Passe certo,34,35,2,30,75,41,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+504,Casa,Jhone Costa,Passe certo,34,35,2,36,68,40,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+505,Casa,Leo Izidoro,Duelo defensivo,34,35,2,46,16,46,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+506,Casa,JP Amaro,Passe certo,36,37,2,25,0,2,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+507,Casa,PH Montavani,Passe certo,36,37,2,12,24,24,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+508,Casa,Matheus Rocha,Passe certo,36,37,2,21,65,14,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+509,Casa,PH Montavani,Passe certo,36,37,2,14,40,26,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+510,Casa,JP Amaro,Passe certo,36,37,2,24,1,56,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+511,Casa,Leo Izidoro,Passe certo,36,37,2,64,28,63,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+512,Casa,Kaique Clemente,Passe certo,36,37,2,55,54,48,64,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+513,Casa,Matheus Rocha,Passe certo,36,37,2,49,60,70,59,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+514,Casa,Lucas Stefanello,Passe certo,36,37,2,71,56,69,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+515,Casa,Kaique Clemente,Passe certo,36,37,2,72,50,104,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+516,Casa,Lucas Rosario,Interceptação,37,38,2,26,61,26,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+517,Casa,Victor Reis,Recuperação,37,38,2,63,67,63,67,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+518,Casa,Matheus Rocha,Interceptação,37,38,2,27,74,27,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+519,Casa,Matheus Rocha,Passe certo,37,38,2,26,76,27,64,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+520,Casa,Jhone Costa,Passe certo,37,38,2,25,66,16,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+521,Casa,Matheus Rocha,Passe certo,37,38,2,27,77,27,60,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+522,Casa,Jhone Costa,Passe errado,38,39,2,37,48,112,21,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+523,Casa,Matheus Rocha,Interceptação,38,39,2,2,61,2,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+536,Casa,PH Montavani,Passe certo,40,41,2,6,40,7,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+537,Casa,Jhone Costa,Passe certo,40,41,2,7,40,24,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+538,Casa,Victor Moraes,Passe certo,40,41,2,37,28,56,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+539,Casa,Gabriel Abdias,Passe certo,40,41,2,55,2,68,4,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+540,Casa,Vinícius de Oliveira,Passe certo,40,41,2,71,1,46,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+541,Casa,Jhone Costa,Passe certo,40,41,2,55,21,46,41,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+542,Casa,Victor Moraes,Passe certo,40,41,2,54,47,67,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+543,Casa,Matheus Rocha,Cruzamento,40,41,2,72,76,107,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+544,Casa,Vinícius de Oliveira,Chute,40,41,2,105,22,105,22,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+545,Casa,Vinícius de Oliveira,Interceptação,41,42,2,54,13,54,13,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+546,Casa,Victor Reis,Interceptação,41,42,2,63,27,63,27,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+547,Casa,Vinícius de Oliveira,Recuperação,41,42,2,69,30,69,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+548,Casa,Vinícius de Oliveira,Passe certo,41,42,2,75,31,81,57,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+549,Casa,Lucas Stefanello,Chute,41,42,2,97,54,97,54,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+550,Casa,Victor Reis,Interceptação,42,43,2,62,32,62,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+551,Casa,Jonathan Camargo,Interceptação,42,43,2,83,29,83,29,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+552,Casa,Victor Reis,Recuperação,42,43,2,76,26,76,26,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+553,Casa,Victor Reis,Passe errado,42,43,2,76,29,99,43,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+554,Casa,Matheus Rocha,Interceptação,42,43,2,46,73,46,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+555,Casa,Matheus Rocha,Recuperação,42,43,2,47,74,47,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+556,Casa,Lucas Stefanello,Recuperação,42,43,2,94,71,94,71,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+557,Casa,Lucas Stefanello,Passe certo,42,43,2,94,72,93,62,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+558,Casa,Matheus Rocha,Passe certo,42,43,2,93,62,90,52,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+559,Casa,Lucas Stefanello,Passe certo,42,43,2,91,51,94,61,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+560,Casa,Matheus Rocha,Passe certo,42,43,2,96,61,83,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+561,Casa,Victor Moraes,Passe certo,43,44,2,85,62,101,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+562,Casa,PH Leite,Duelo defensivo,43,44,2,98,75,98,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+563,Casa,PH Leite,Passe errado,43,44,2,105,76,97,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+564,Casa,Jhone Costa,Passe certo,43,44,2,98,73,96,76,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+565,Casa,PH Leite,Passe errado,43,44,2,99,75,101,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+566,Casa,Jhone Costa,Interceptação,43,44,2,30,73,30,73,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+567,Casa,PH Montavani,Recuperação,44,45,2,0,49,0,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+568,Casa,PH Montavani,Passe certo,44,45,2,8,46,12,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+569,Casa,Jhone Costa,Passe certo,44,45,2,20,26,32,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+570,Casa,Victor Reis,Passe certo,44,45,2,39,27,27,39,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+571,Casa,Victor Moraes,Passe certo,44,45,2,51,34,47,15,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+572,Casa,Jhone Costa,Passe certo,44,45,2,44,15,75,7,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+573,Casa,Gabriel Abdias,Passe certo,44,45,2,66,13,39,66,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+574,Casa,Matheus Rocha,Passe errado,44,45,2,38,68,117,60,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+575,Casa,Matheus Rocha,Interceptação,45,46,2,30,58,30,58,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+576,Casa,PH Montavani,Passe certo,45,46,2,1,51,3,30,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+577,Casa,Jhone Costa,Passe certo,45,46,2,14,29,18,49,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+578,Casa,Victor Moraes,Passe certo,45,46,2,17,50,16,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+579,Casa,Jhone Costa,Passe errado,45,46,2,11,18,13,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+580,Casa,PH Montavani,Gol sofrido,45,46,2,6,40,6,40,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+581,Casa,Matheus Rocha,Passe certo,47,48,2,66,55,63,44,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+582,Casa,Victor Moraes,Passe certo,47,48,2,63,44,70,11,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+583,Casa,Victor Reis,Passe errado,47,48,2,90,6,100,1,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+584,Casa,Matheus Rocha,Interceptação,47,48,2,41,53,41,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+585,Casa,Gabriel Abdias,Interceptação,47,48,2,35,18,35,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+586,Casa,Victor Moraes,Interceptação,47,48,2,49,21,49,21,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+587,Casa,Vinícius de Oliveira,Recuperação,47,48,2,54,21,54,21,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+588,Casa,Vinícius de Oliveira,Passe certo,47,48,2,54,21,60,16,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+589,Casa,Victor Reis,Passe certo,47,48,2,54,16,46,9,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+590,Casa,Jhone Costa,Passe certo,48,49,2,37,29,37,47,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+591,Casa,Victor Moraes,Passe certo,48,49,2,46,51,53,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+592,Casa,Matheus Rocha,Passe certo,48,49,2,50,66,65,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+593,Casa,Jhone Costa,Passe certo,48,49,2,29,41,36,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+594,Casa,Victor Moraes,Passe certo,48,49,2,37,48,62,70,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+595,Casa,Matheus Rocha,Passe certo,48,49,2,71,67,53,60,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+596,Casa,Victor Moraes,Passe certo,48,49,2,56,55,75,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+597,Casa,Vinícius de Oliveira,Passe certo,48,49,2,83,25,80,17,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+598,Casa,Victor Reis,Passe certo,48,49,2,83,17,99,0,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+599,Casa,Gabriel Abdias,Passe certo,49,50,2,100,2,66,28,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+600,Casa,Jhone Costa,Passe certo,49,50,2,70,36,77,72,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+601,Casa,Matheus Rocha,Passe certo,49,50,2,94,46,97,37,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+602,Casa,Kaique Clemente,Chute,49,50,2,97,34,97,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+603,Casa,Victor Moraes,Recuperação,49,50,2,90,32,90,32,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+604,Casa,Victor Moraes,Passe certo,49,50,2,90,34,66,45,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+605,Casa,Jhone Costa,Chute,49,50,2,82,42,82,42,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+313,Casa,Vinícius de Oliveira,Interceptação,50,51,2,47,34,47,34,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+314,Casa,PH Leite,Recuperação,50,51,2,12,63,12,63,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+315,Casa,PH Leite,Passe certo,50,51,2,10,77,11,68,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+316,Casa,Victor Moraes,Passe certo,50,51,2,18,60,12,35,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+317,Casa,Jhone Costa,Passe certo,50,51,2,13,58,19,78,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+318,Casa,Victor Moraes,Duelo defensivo,50,51,2,32,74,32,74,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+609,Casa,PH Montavani,Passe certo,51,final,2,2,47,6,18,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+610,Casa,Jhone Costa,Passe certo,51,final,2,7,18,20,2,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+611,Casa,Gabriel Abdias,Passe errado,51,final,2,55,1,109,22,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+612,Casa,PH Leite,Duelo defensivo,51,final,2,24,53,24,53,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+613,Casa,PH Leite,Passe certo,51,final,2,21,50,41,65,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
+614,Casa,Lucas Stefanello,Interceptação,51,final,2,24,75,24,75,Ituano x Desp. Brasil - Paulistão 2024 - Rodada 1,2024
