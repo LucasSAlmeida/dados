@@ -1,10 +1,10 @@
 time,posicao,evento,x,y,x2,y2,jogo
-Adversário,Cruzamento,12,22,36,10,jogo 1
-Adversário,Cruzamento,7,3,43,3,jogo 1
-Adversário,Cruzamento,69,26,49,15,jogo 2
-Adversário,Cruzamento,74,5,51,9, jogo 2
-Adversário,Gol,36,10,36,10,jogo 1
-Jogador Ituano 1,Interceptação,43,3,43,3,jogo 1
-Jogador Ituano 1, Interceptação,49,15,49,15, jogo 2
-Adversário, Finalização,51,9,51,9, jogo 2
+Adversário,Zagueiro,Cruzamento,12,22,36,10,jogo 1
+Adversário,Zagueiro,Cruzamento,7,3,43,3,jogo 1
+Adversário,Zagueiro,Cruzamento,69,26,49,15,jogo 2
+Adversário,Zagueiro,Cruzamento,74,5,51,9, jogo 2
+Adversário,Zagueiro,Gol,36,10,36,10,jogo 1
+Ituano,Zagueiro,43,3,43,3,jogo 1
+Ituano,Zagueiro,49,15,49,15, jogo 2
+Ituano,Zagueiro,51,9,51,9, jogo 2
 
