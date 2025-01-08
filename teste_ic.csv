@@ -1,16 +1,10 @@
 time,posicao,evento,x,y,x2,y2,jogo
-Visitante,GOL,Cruzamento,20,1,6,33,jogo 1
-Visitante,GOL,Cruzamento,5,1,2,39,jogo 1
-Visitante,GOL,Cruzamento,23,5,8,32,jogo 1
-Visitante,GOL,Cruzamento,1,2,9,29,jogo 1
-Visitante,GOL,Cruzamento,12,2,3,32,jogo 1
-Visitante,GOL,Interceptação,3,25,3,25,jogo 1
-Visitante,GOL,Interceptação,12,38,12,38,jogo 1
-Visitante,GOL,Interceptação,7,49,7,49,jogo 1
-Visitante,GOL,Interceptação,1,39,1,39,jogo 1
-Visitante,GOL,Interceptação,3,56,3,56,jogo 1
-Visitante,GOL,Interceptação,4,60,4,60,jogo 1
-Visitante,GOL,Finalização,10,56,10,56,jogo 1
-Visitante,GOL,Finalização,14,48,14,48,jogo 1
-Visitante,GOL,Finalização,5,47,5,47,jogo 1
-Visitante,GOL,Finalização,1,38,1,38,jogo 1
+Adversário,Cruzamento,12,22,36,10
+Adversário,Cruzamento,7,3,43,3
+Adversário,Cruzamento,69,26,49,15
+Adversário,Cruzamento,74,5,51,9
+Adversário,Gol,36,10,36,10
+Jogador Ituano 1,Interceptação,43,3,43,3
+Jogador Ituano 1, Interceptação,49,15,49,15
+Adversário, Finalização,51,9,51,9
+
