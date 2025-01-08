@@ -1,16 +1,33 @@
-time,posicao,evento,x,y,x2,y2,jogo
-Ituano,Zagueiro,Cruzamento,12,22,36,10,jogo 1
-Ituano,Zagueiro,Cruzamento,7,3,43,3,jogo 1
-Ituano,Zagueiro,Cruzamento,69,26,49,15,jogo 2
-Ituano,Zagueiro,Cruzamento,74,5,51,9,jogo 2
-Ituano,Zagueiro,Cruzamento,77,5,51,9,jogo 3
-Ituano,Zagueiro,Cruzamento,69,26,49,15,jogo 3
-Ituano,Zagueiro,Finalização,36,10,36,10,jogo 2
-Ituano,Zagueiro,Gol,39,20,39,20,jogo 2
-Ituano,Zagueiro,Finalização,36,10,36,10,jogo 1
-Ituano,Zagueiro,Gol,22,5,22,5,jogo 1
-Ituano,Zagueiro 1,Interceptação,43,3,43,3,jogo 1
-Ituano,Zagueiro 2,Interceptação,49,15,49,15,jogo 2
-Ituano,Zagueiro 1,Interceptação,51,9,51,9,jogo 2
-Ituano,Zagueiro 1,Interceptação,54,8,54,8,jogo 3
-Ituano,Zagueiro 1,Interceptação,40,11,40,11,jogo 3
+time,evento,x,y,x2,y2,jogo
+Casa,Cruzamento,10,1,28,13,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,72,14,49,3,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,7,7,42,9,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,68,24,44,7,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,4,21,34,8,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,6,1,36,9,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,75,3,51,10,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,76,30,42,11,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,6,28,30,10,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,1,6,24,6,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,6,21,30,9,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,74,21,51,12,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,76,3,51,3,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,5,1,32,5,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,75,6,49,9,Ituano x Adversário - jogo 1 
+Casa,Cruzamento,64,21,40,4,Ituano x Adversário - jogo 1 
+Casa,Finalização,28,13,28,13,Ituano x Adversário - jogo 1 
+Casa,Finalização,49,3,49,3,Ituano x Adversário - jogo 1 
+Casa,Finalização,42,9,42,9,Ituano x Adversário - jogo 1 
+Casa,Finalização,44,7,44,7,Ituano x Adversário - jogo 1 
+Casa,Finalização,34,8,34,8,Ituano x Adversário - jogo 1 
+Casa,Finalização,36,9,36,9,Ituano x Adversário - jogo 1 
+Casa,Finalização,51,10,51,10,Ituano x Adversário - jogo 1 
+Casa,Finalização,42,11,42,11,Ituano x Adversário - jogo 1 
+Casa,Interceptação,30,10,30,10,Ituano x Adversário - jogo 1 
+Casa,Interceptação,24,6,24,6,Ituano x Adversário - jogo 1 
+Casa,Interceptação,30,9,30,9,Ituano x Adversário - jogo 1 
+Casa,Interceptação,51,12,51,12,Ituano x Adversário - jogo 1 
+Casa,Interceptação,51,3,51,3,Ituano x Adversário - jogo 1 
+Casa,Interceptação,32,5,32,5,Ituano x Adversário - jogo 1 
+Casa,Interceptação,49,9,49,9,Ituano x Adversário - jogo 1 
+Casa,Interceptação,40,4,40,4,Ituano x Adversário - jogo 1
