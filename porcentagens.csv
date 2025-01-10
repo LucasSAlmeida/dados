@@ -1,7 +1,7 @@
-evento,jogo,porcentagem
-Finalização,Grêmio Prudente,8.3
-Finalização,Rio Claro,20.8
-Gol,Grêmio Prudente,8.3
-Gol,Rio Claro,12.5
-Interceptação,Grêmio Prudente,16.7
-Interceptação,Rio Claro,33.3
+evento;jogo;porcentagem
+Finalização;Grêmio Prudente;8,3
+Finalização;Rio Claro;20,8
+Gol;Grêmio Prudente;8,3
+Gol;Rio Claro;12,5
+Interceptação;Grêmio Prudente;16,7
+Interceptação;Rio Claro;33,3
