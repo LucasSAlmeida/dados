@@ -1,49 +1,49 @@
 time,evento,x,y,x2,y2,jogo
-Casa,Cruzamento,10,1,28,13,Adversário - jogo 1 
-Casa,Cruzamento,72,14,49,3,Adversário - jogo 1 
-Casa,Cruzamento,7,7,42,9,Adversário - jogo 1 
-Casa,Cruzamento,68,24,44,7,Adversário - jogo 1 
-Casa,Cruzamento,4,21,34,8,Adversário - jogo 1 
-Casa,Cruzamento,6,1,36,9,Adversário - jogo 1 
-Casa,Cruzamento,75,3,51,10,Adversário - jogo 1 
-Casa,Cruzamento,76,30,42,11,Adversário - jogo 1 
-Casa,Cruzamento,6,28,30,10,Adversário - jogo 1 
-Casa,Cruzamento,1,6,24,6,Adversário - jogo 1 
-Casa,Cruzamento,6,21,30,9,Adversário - jogo 1 
-Casa,Cruzamento,74,21,51,12,Adversário - jogo 1 
-Casa,Cruzamento,76,3,51,3,Adversário - jogo 1 
-Casa,Cruzamento,5,1,32,5,Adversário - jogo 1 
-Casa,Cruzamento,75,6,49,9,Adversário - jogo 1 
-Casa,Cruzamento,64,21,40,4,Adversário - jogo 1 
-Casa,Gol,28,13,28,13,Adversário - jogo 1
-Casa,Finalização,49,3,49,3,Adversário - jogo 1
-Casa,Gol,42,9,42,9,Adversário - jogo 1
-Casa,Finalização,44,7,44,7,Adversário - jogo 1
-Casa,Gol,34,8,34,8,Adversário - jogo 1
-Casa,Finalização,36,9,36,9,Adversário - jogo 1
-Casa,Finalização,51,10,51,10,Adversário - jogo 1
-Casa,Finalização,42,11,42,11,Adversário - jogo 1
-Casa,Interceptação,30,10,30,10,Adversário - jogo 1
-Casa,Interceptação,24,6,24,6,Adversário - jogo 1
-Casa,Interceptação,30,9,30,9,Adversário - jogo 1
-Casa,Interceptação,51,12,51,12,Adversário - jogo 1
-Casa,Interceptação,51,3,51,3,Adversário - jogo 1
-Casa,Interceptação,32,5,32,5,Adversário - jogo 1
-Casa,Interceptação,49,9,49,9,Adversário - jogo 1
-Casa,Interceptação,40,4,40,4,Adversário - jogo 1
-Casa,Cruzamento,4,8,39,5,Adversário - jogo 2
-Casa,Cruzamento,75,18,42,14,Adversário - jogo 2
-Casa,Cruzamento,14,23,34,2,Adversário - jogo 2
-Casa,Cruzamento,77,11,44,4,Adversário - jogo 2
-Casa,Cruzamento,2,3,31,12,Adversário - jogo 2
-Casa,Cruzamento,77,1,46,10,Adversário - jogo 2
-Casa,Cruzamento,4,11,37,11,Adversário - jogo 2
-Casa,Cruzamento,73,16,43,2,Adversário - jogo 2
-Casa,Interceptação,39,5,39,5,Adversário - jogo 2
-Casa,Finalização,42,14,42,14,Adversário - jogo 2
-Casa,Interceptação,34,2,34,2,Adversário - jogo 2
-Casa,Gol,44,4,44,4,Adversário - jogo 2
-Casa,Finalização,31,12,31,12,Adversário - jogo 2
-Casa,Interceptação,46,10,46,10,Adversário - jogo 2
-Casa,Gol,37,11,37,11,Adversário - jogo 2
-Casa,Interceptação,43,2,43,2,Adversário - jogo 2
+Casa,Cruzamento,10,1,28,13,Rio Claro 
+Casa,Cruzamento,72,14,49,3,Rio Claro 
+Casa,Cruzamento,7,7,42,9,Rio Claro 
+Casa,Cruzamento,68,24,44,7,Rio Claro 
+Casa,Cruzamento,4,21,34,8,Rio Claro 
+Casa,Cruzamento,6,1,36,9,Rio Claro 
+Casa,Cruzamento,75,3,51,10,Rio Claro 
+Casa,Cruzamento,76,30,42,11,Rio Claro 
+Casa,Cruzamento,6,28,30,10,Rio Claro 
+Casa,Cruzamento,1,6,24,6,Rio Claro 
+Casa,Cruzamento,6,21,30,9,Rio Claro 
+Casa,Cruzamento,74,21,51,12,Rio Claro 
+Casa,Cruzamento,76,3,51,3,Rio Claro 
+Casa,Cruzamento,5,1,32,5,Rio Claro 
+Casa,Cruzamento,75,6,49,9,Rio Claro 
+Casa,Cruzamento,64,21,40,4,Rio Claro 
+Casa,Gol,28,13,28,13,Rio Claro
+Casa,Finalização,49,3,49,3,Rio Claro
+Casa,Gol,42,9,42,9,Rio Claro
+Casa,Finalização,44,7,44,7,Rio Claro
+Casa,Gol,34,8,34,8,Rio Claro
+Casa,Finalização,36,9,36,9,Rio Claro
+Casa,Finalização,51,10,51,10,Rio Claro
+Casa,Finalização,42,11,42,11,Rio Claro
+Casa,Interceptação,30,10,30,10,Rio Claro
+Casa,Interceptação,24,6,24,6,Rio Claro
+Casa,Interceptação,30,9,30,9,Rio Claro
+Casa,Interceptação,51,12,51,12,Rio Claro
+Casa,Interceptação,51,3,51,3,Rio Claro
+Casa,Interceptação,32,5,32,5,Rio Claro
+Casa,Interceptação,49,9,49,9,Rio Claro
+Casa,Interceptação,40,4,40,4,Rio Claro
+Casa,Cruzamento,4,8,39,5,Grêmio Prudente
+Casa,Cruzamento,75,18,42,14,Grêmio Prudente
+Casa,Cruzamento,14,23,34,2,Grêmio Prudente
+Casa,Cruzamento,77,11,44,4,Grêmio Prudente
+Casa,Cruzamento,2,3,31,12,Grêmio Prudente
+Casa,Cruzamento,77,1,46,10,Grêmio Prudente
+Casa,Cruzamento,4,11,37,11,Grêmio Prudente
+Casa,Cruzamento,73,16,43,2,Grêmio Prudente
+Casa,Interceptação,39,5,39,5,Grêmio Prudente
+Casa,Finalização,42,14,42,14,Grêmio Prudente
+Casa,Interceptação,34,2,34,2,Grêmio Prudente
+Casa,Gol,44,4,44,4,Grêmio Prudente
+Casa,Finalização,31,12,31,12,Grêmio Prudente
+Casa,Interceptação,46,10,46,10,Grêmio Prudente
+Casa,Gol,37,11,37,11,Grêmio Prudente
+Casa,Interceptação,43,2,43,2,Grêmio Prudente
