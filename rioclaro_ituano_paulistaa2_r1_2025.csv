@@ -1,195 +1,195 @@
 time,posicao,evento,tempo,x,y,x2,y2
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_0_1_1.csv,45,5,45,5
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_12_13_1.csv,9,39,9,39
-Casa,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_13_14_1.csv,9,46,9,46
-Visitante,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_13_14_1.csv,1,69,3,45
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_13_14_1.csv,15,32,33,29
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_13_14_1.csv,48,9,107,46
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_16_17_1.csv,46,44,46,44
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_16_17_1.csv,57,14,57,14
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_16_17_1.csv,29,7,29,7
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_1_2_1.csv,102,58,102,58
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_20_21_1.csv,33,25,57,61
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_20_21_1.csv,51,33,51,33
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_21_22_1.csv,41,42,41,42
-Casa,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_26_27_1.csv,108,27,108,27
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_27_28_1.csv,48,14,48,14
-Casa,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_29_30_1.csv,69,27,102,37
-Casa,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_29_30_1.csv,103,37,103,37
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_2_3_1.csv,57,10,57,10
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_2_3_1.csv,105,10,105,10
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_2_3_1.csv,89,6,89,6
-Casa,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_30_31_1.csv,5,14,98,22
-Casa,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_30_31_1.csv,101,24,101,23
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_33_34_1.csv,80,79,90,61
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_34_35_1.csv,15,46,48,39
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_34_35_1.csv,42,26,94,44
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_35_36_1.csv,97,33,110,46
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_35_36_1.csv,113,61,113,36
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_35_36_1.csv,112,3,117,36
-Casa,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_35_36_1.csv,116,30,116,30
-Casa,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_35_36_1.csv,112,35,112,35
-Casa,GOL,Falta,rioclaro_ituano\rioclaro_ituano_36_37_1.csv,101,2,101,2
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_37_38_1.csv,21,2,39,15
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_37_38_1.csv,32,17,31,2
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_37_38_1.csv,36,21,84,79
-Casa,GOL,Falta,rioclaro_ituano\rioclaro_ituano_38_39_1.csv,55,79,55,79
-Casa,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_39_40_1.csv,41,52,103,29
-Casa,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_39_40_1.csv,104,27,104,27
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_3_4_1.csv,42,79,54,77
-Casa,GOL,Falta,rioclaro_ituano\rioclaro_ituano_3_4_1.csv,35,80,35,80
-Casa,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_4_5_1.csv,64,42,64,42
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_4_5_1.csv,40,44,40,44
-Casa,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_5_6_1.csv,88,46,88,46
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_6_7_1.csv,34,25,34,25
-Casa,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_6_7_1.csv,49,12,49,12
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_6_7_1.csv,55,20,55,20
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_7_8_1.csv,76,12,76,12
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_7_8_1.csv,56,44,78,77
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_8_9_1.csv,64,48,120,59
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,48,15,48,15
-Casa,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,34,17,34,17
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,29,8,41,14
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,58,15,58,15
-Casa,GOL,Falta,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,82,78,82,78
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_0_1_1.csv,74,10,74,10
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_0_1_1.csv,48,8,48,8
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_10_11_1.csv,60,9,60,9
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_13_14_1.csv,16,43,16,43
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_14_15_1.csv,17,64,17,64
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_15_16_1.csv,87,39,87,39
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_15_16_1.csv,82,39,82,39
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_15_16_1.csv,45,56,25,21
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_15_16_1.csv,28,19,28,19
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_16_17_1.csv,88,36,88,36
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_18_19_1.csv,2,14,2,14
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_19_20_1.csv,85,31,85,31
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_19_20_1.csv,66,10,51,15
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_20_21_1.csv,53,72,38,68
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_20_21_1.csv,67,62,67,62
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_20_21_1.csv,89,70,54,40
-Visitante,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_21_22_1.csv,85,14,12,50
-Visitante,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_21_22_1.csv,54,45,54,45
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_22_23_1.csv,48,49,11,53
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_22_23_1.csv,8,42,8,42
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_22_23_1.csv,16,37,16,37
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_23_24_1.csv,47,2,47,2
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_27_28_1.csv,80,76,80,76
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_29_30_1.csv,29,14,29,14
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_30_31_1.csv,69,11,9,21
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_31_32_1.csv,49,8,30,13
-Visitante,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_32_33_1.csv,34,40,34,40
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_33_34_1.csv,80,75,80,75
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_37_38_1.csv,17,6,17,6
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_37_38_1.csv,36,11,30,19
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_38_39_1.csv,88,79,52,79
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_3_4_1.csv,34,80,34,80
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_4_5_1.csv,79,59,79,59
-Visitante,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_4_5_1.csv,56,55,56,55
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_5_6_1.csv,67,5,67,5
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_6_7_1.csv,65,22,65,22
-Visitante,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_6_7_1.csv,73,23,73,23
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_7_8_1.csv,93,16,93,16
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_7_8_1.csv,91,63,91,63
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_7_8_1.csv,80,78,80,78
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_8_9_1.csv,105,45,64,47
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,90,17,90,17
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_45_46_2.csv,94,79,94,79
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_46_47_2.csv,90,79,90,79
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_46_47_2.csv,63,79,63,79
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_46_47_2.csv,47,74,82,77
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_47_48_2.csv,60,79,60,79
-Casa,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_47_48_2.csv,99,41,99,41
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_48_49_2.csv,13,75,13,75
-Visitante,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_48_49_2.csv,108,53,13,31
-Visitante,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_48_49_2.csv,13,32,13,32
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_50_51_2.csv,63,43,117,35
-Visitante,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_50_51_2.csv,16,42,16,42
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_51_52_2.csv,71,75,71,75
-Casa,GOL,Falta,rioclaro_ituano\rioclaro_ituano_51_52_2.csv,69,75,69,75
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_52_53_2.csv,21,79,21,79
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_53_54_2.csv,7,79,7,79
-Visitante,GOL,Transição Pós Lateral,rioclaro_ituano\rioclaro_ituano_53_54_2.csv,12,73,7,79
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,27,4,27,4
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,36,7,26,3
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,26,18,105,66
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,86,71,10,65
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,2,72,2,72
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,38,67,38,67
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_55_56_2.csv,28,79,11,64
-Casa,GOL,Falta,rioclaro_ituano\rioclaro_ituano_55_56_2.csv,10,63,10,63
-Visitante,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,12,68,12,68
-Visitante,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,0,49,0,49
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,9,50,9,50
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,9,62,8,56
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,9,53,29,46
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,19,50,10,48
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,12,51,96,49
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,102,55,12,50
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,8,52,8,52
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_57_58_2.csv,94,41,80,40
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_57_58_2.csv,85,41,52,44
-Visitante,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_57_58_2.csv,52,44,52,44
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_58_59_2.csv,95,47,64,46
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_58_59_2.csv,66,45,116,19
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_59_60_2.csv,38,40,81,79
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_59_60_2.csv,79,79,79,79
-Visitante,GOL,Transição Pós Lateral,rioclaro_ituano\rioclaro_ituano_59_60_2.csv,48,72,11,42
-Visitante,GOL,Gol,rioclaro_ituano\rioclaro_ituano_59_60_2.csv,12,42,12,42
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_61_62_2.csv,108,9,108,9
-Casa,GOL,Falta,rioclaro_ituano\rioclaro_ituano_61_62_2.csv,108,8,108,8
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_62_63_2.csv,10,9,10,9
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_63_64_2.csv,42,79,42,79
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_63_64_2.csv,37,50,67,48
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_63_64_2.csv,67,50,67,50
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_64_65_2.csv,65,15,112,42
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_64_65_2.csv,100,45,52,72
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_64_65_2.csv,45,78,45,78
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_65_66_2.csv,110,45,110,45
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_66_67_2.csv,35,4,35,4
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_66_67_2.csv,47,3,47,3
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_66_67_2.csv,64,47,64,47
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_66_67_2.csv,44,77,44,77
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_67_68_2.csv,37,61,37,61
-Casa,GOL,Falta,rioclaro_ituano\rioclaro_ituano_67_68_2.csv,37,62,37,62
-Visitante,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_67_68_2.csv,19,57,19,57
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_68_69_2.csv,9,38,9,38
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_68_69_2.csv,31,46,31,46
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_69_70_2.csv,75,38,47,50
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_69_70_2.csv,50,76,50,76
-Casa,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_70_71_2.csv,108,19,108,19
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_70_71_2.csv,89,74,89,74
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_72_73_2.csv,29,51,29,51
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_72_73_2.csv,78,56,78,56
-Casa,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_72_73_2.csv,86,39,86,39
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_72_73_2.csv,33,44,33,44
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_72_73_2.csv,36,42,36,42
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_73_74_2.csv,97,2,97,2
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_74_75_2.csv,33,35,33,35
-Visitante,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_74_75_2.csv,43,23,43,23
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_74_75_2.csv,51,21,51,21
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_75_76_2.csv,80,31,104,38
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_75_76_2.csv,102,37,53,79
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_76_77_2.csv,96,24,96,24
-Visitante,GOL,Rec,rioclaro_ituano\rioclaro_ituano_77_78_2.csv,70,72,70,72
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_78_79_2.csv,75,79,75,79
-Visitante,GOL,Falta,rioclaro_ituano\rioclaro_ituano_78_79_2.csv,54,66,54,66
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_79_80_2.csv,103,55,90,54
-Casa,GOL,Falta,rioclaro_ituano\rioclaro_ituano_79_80_2.csv,93,54,93,54
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_79_80_2.csv,27,15,27,15
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,18,4,4,1
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,4,0,4,0
-Visitante,GOL,Transição Pós Lateral,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,8,4,14,0
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,14,0,14,0
-Visitante,GOL,Transição Pós Lateral,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,28,3,52,2
-Casa,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,54,9,54,24
-Visitante,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,53,21,24,25
-Casa,GOL,Rec,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,25,31,25,31
-Casa,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_81_82_2.csv,24,52,24,52
-Visitante,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_82_83_2.csv,48,78,48,78
-Casa,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_82_83_2.csv,86,21,86,21
-Casa,GOL,Gol,rioclaro_ituano\rio_claro_ituano_83_84_2.csv,110,45,110,45
-Visitante,GOL,Lateral,rioclaro_ituano\rio_claro_ituano_84_85_2.csv,24,78,24,78
-Visitante,GOL,Transição Pós Lateral,rioclaro_ituano\rio_claro_ituano_84_85_2.csv,21,59,32,59
-Casa,GOL,RecNCA,rioclaro_ituano\rio_claro_ituano_84_85_2.csv,41,74,59,60
-Visitante,GOL,RecNCA,rioclaro_ituano\rio_claro_ituano_84_85_2.csv,65,59,25,63
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_0_1_1.csv,45,5,45,5
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_12_13_1.csv,9,39,9,39
+Rio Claro,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_13_14_1.csv,9,46,9,46
+Ituano,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_13_14_1.csv,1,69,3,45
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_13_14_1.csv,15,32,33,29
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_13_14_1.csv,48,9,107,46
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_16_17_1.csv,46,44,46,44
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_16_17_1.csv,57,14,57,14
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_16_17_1.csv,29,7,29,7
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_1_2_1.csv,102,58,102,58
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_20_21_1.csv,33,25,57,61
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_20_21_1.csv,51,33,51,33
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_21_22_1.csv,41,42,41,42
+Rio Claro,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_26_27_1.csv,108,27,108,27
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_27_28_1.csv,48,14,48,14
+Rio Claro,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_29_30_1.csv,69,27,102,37
+Rio Claro,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_29_30_1.csv,103,37,103,37
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_2_3_1.csv,57,10,57,10
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_2_3_1.csv,105,10,105,10
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_2_3_1.csv,89,6,89,6
+Rio Claro,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_30_31_1.csv,5,14,98,22
+Rio Claro,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_30_31_1.csv,101,24,101,23
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_33_34_1.csv,80,79,90,61
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_34_35_1.csv,15,46,48,39
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_34_35_1.csv,42,26,94,44
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_35_36_1.csv,97,33,110,46
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_35_36_1.csv,113,61,113,36
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_35_36_1.csv,112,3,117,36
+Rio Claro,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_35_36_1.csv,116,30,116,30
+Rio Claro,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_35_36_1.csv,112,35,112,35
+Rio Claro,GOL,Falta,rioclaro_ituano\rioclaro_ituano_36_37_1.csv,101,2,101,2
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_37_38_1.csv,21,2,39,15
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_37_38_1.csv,32,17,31,2
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_37_38_1.csv,36,21,84,79
+Rio Claro,GOL,Falta,rioclaro_ituano\rioclaro_ituano_38_39_1.csv,55,79,55,79
+Rio Claro,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_39_40_1.csv,41,52,103,29
+Rio Claro,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_39_40_1.csv,104,27,104,27
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_3_4_1.csv,42,79,54,77
+Rio Claro,GOL,Falta,rioclaro_ituano\rioclaro_ituano_3_4_1.csv,35,80,35,80
+Rio Claro,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_4_5_1.csv,64,42,64,42
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_4_5_1.csv,40,44,40,44
+Rio Claro,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_5_6_1.csv,88,46,88,46
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_6_7_1.csv,34,25,34,25
+Rio Claro,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_6_7_1.csv,49,12,49,12
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_6_7_1.csv,55,20,55,20
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_7_8_1.csv,76,12,76,12
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_7_8_1.csv,56,44,78,77
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_8_9_1.csv,64,48,120,59
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,48,15,48,15
+Rio Claro,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,34,17,34,17
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,29,8,41,14
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,58,15,58,15
+Rio Claro,GOL,Falta,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,82,78,82,78
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_0_1_1.csv,74,10,74,10
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_0_1_1.csv,48,8,48,8
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_10_11_1.csv,60,9,60,9
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_13_14_1.csv,16,43,16,43
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_14_15_1.csv,17,64,17,64
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_15_16_1.csv,87,39,87,39
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_15_16_1.csv,82,39,82,39
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_15_16_1.csv,45,56,25,21
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_15_16_1.csv,28,19,28,19
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_16_17_1.csv,88,36,88,36
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_18_19_1.csv,2,14,2,14
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_19_20_1.csv,85,31,85,31
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_19_20_1.csv,66,10,51,15
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_20_21_1.csv,53,72,38,68
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_20_21_1.csv,67,62,67,62
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_20_21_1.csv,89,70,54,40
+Ituano,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_21_22_1.csv,85,14,12,50
+Ituano,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_21_22_1.csv,54,45,54,45
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_22_23_1.csv,48,49,11,53
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_22_23_1.csv,8,42,8,42
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_22_23_1.csv,16,37,16,37
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_23_24_1.csv,47,2,47,2
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_27_28_1.csv,80,76,80,76
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_29_30_1.csv,29,14,29,14
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_30_31_1.csv,69,11,9,21
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_31_32_1.csv,49,8,30,13
+Ituano,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_32_33_1.csv,34,40,34,40
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_33_34_1.csv,80,75,80,75
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_37_38_1.csv,17,6,17,6
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_37_38_1.csv,36,11,30,19
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_38_39_1.csv,88,79,52,79
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_3_4_1.csv,34,80,34,80
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_4_5_1.csv,79,59,79,59
+Ituano,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_4_5_1.csv,56,55,56,55
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_5_6_1.csv,67,5,67,5
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_6_7_1.csv,65,22,65,22
+Ituano,GOL,2ª Bola,rioclaro_ituano\rioclaro_ituano_6_7_1.csv,73,23,73,23
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_7_8_1.csv,93,16,93,16
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_7_8_1.csv,91,63,91,63
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_7_8_1.csv,80,78,80,78
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_8_9_1.csv,105,45,64,47
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_9_10_1.csv,90,17,90,17
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_45_46_2.csv,94,79,94,79
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_46_47_2.csv,90,79,90,79
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_46_47_2.csv,63,79,63,79
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_46_47_2.csv,47,74,82,77
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_47_48_2.csv,60,79,60,79
+Rio Claro,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_47_48_2.csv,99,41,99,41
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_48_49_2.csv,13,75,13,75
+Ituano,GOL,RecCA,rioclaro_ituano\rioclaro_ituano_48_49_2.csv,108,53,13,31
+Ituano,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_48_49_2.csv,13,32,13,32
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_50_51_2.csv,63,43,117,35
+Ituano,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_50_51_2.csv,16,42,16,42
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_51_52_2.csv,71,75,71,75
+Rio Claro,GOL,Falta,rioclaro_ituano\rioclaro_ituano_51_52_2.csv,69,75,69,75
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_52_53_2.csv,21,79,21,79
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_53_54_2.csv,7,79,7,79
+Ituano,GOL,Transição Pós Lateral,rioclaro_ituano\rioclaro_ituano_53_54_2.csv,12,73,7,79
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,27,4,27,4
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,36,7,26,3
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,26,18,105,66
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,86,71,10,65
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,2,72,2,72
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_54_55_2.csv,38,67,38,67
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_55_56_2.csv,28,79,11,64
+Rio Claro,GOL,Falta,rioclaro_ituano\rioclaro_ituano_55_56_2.csv,10,63,10,63
+Ituano,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,12,68,12,68
+Ituano,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,0,49,0,49
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,9,50,9,50
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,9,62,8,56
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,9,53,29,46
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,19,50,10,48
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,12,51,96,49
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,102,55,12,50
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_56_57_2.csv,8,52,8,52
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_57_58_2.csv,94,41,80,40
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_57_58_2.csv,85,41,52,44
+Ituano,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_57_58_2.csv,52,44,52,44
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_58_59_2.csv,95,47,64,46
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_58_59_2.csv,66,45,116,19
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_59_60_2.csv,38,40,81,79
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_59_60_2.csv,79,79,79,79
+Ituano,GOL,Transição Pós Lateral,rioclaro_ituano\rioclaro_ituano_59_60_2.csv,48,72,11,42
+Ituano,GOL,Gol,rioclaro_ituano\rioclaro_ituano_59_60_2.csv,12,42,12,42
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_61_62_2.csv,108,9,108,9
+Rio Claro,GOL,Falta,rioclaro_ituano\rioclaro_ituano_61_62_2.csv,108,8,108,8
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_62_63_2.csv,10,9,10,9
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_63_64_2.csv,42,79,42,79
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_63_64_2.csv,37,50,67,48
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_63_64_2.csv,67,50,67,50
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_64_65_2.csv,65,15,112,42
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_64_65_2.csv,100,45,52,72
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_64_65_2.csv,45,78,45,78
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_65_66_2.csv,110,45,110,45
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_66_67_2.csv,35,4,35,4
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_66_67_2.csv,47,3,47,3
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_66_67_2.csv,64,47,64,47
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_66_67_2.csv,44,77,44,77
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_67_68_2.csv,37,61,37,61
+Rio Claro,GOL,Falta,rioclaro_ituano\rioclaro_ituano_67_68_2.csv,37,62,37,62
+Ituano,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_67_68_2.csv,19,57,19,57
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_68_69_2.csv,9,38,9,38
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_68_69_2.csv,31,46,31,46
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_69_70_2.csv,75,38,47,50
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_69_70_2.csv,50,76,50,76
+Rio Claro,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_70_71_2.csv,108,19,108,19
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_70_71_2.csv,89,74,89,74
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_72_73_2.csv,29,51,29,51
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_72_73_2.csv,78,56,78,56
+Rio Claro,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_72_73_2.csv,86,39,86,39
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_72_73_2.csv,33,44,33,44
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_72_73_2.csv,36,42,36,42
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_73_74_2.csv,97,2,97,2
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_74_75_2.csv,33,35,33,35
+Ituano,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_74_75_2.csv,43,23,43,23
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_74_75_2.csv,51,21,51,21
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_75_76_2.csv,80,31,104,38
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_75_76_2.csv,102,37,53,79
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_76_77_2.csv,96,24,96,24
+Ituano,GOL,Rec,rioclaro_ituano\rioclaro_ituano_77_78_2.csv,70,72,70,72
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_78_79_2.csv,75,79,75,79
+Ituano,GOL,Falta,rioclaro_ituano\rioclaro_ituano_78_79_2.csv,54,66,54,66
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_79_80_2.csv,103,55,90,54
+Rio Claro,GOL,Falta,rioclaro_ituano\rioclaro_ituano_79_80_2.csv,93,54,93,54
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_79_80_2.csv,27,15,27,15
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,18,4,4,1
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,4,0,4,0
+Ituano,GOL,Transição Pós Lateral,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,8,4,14,0
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,14,0,14,0
+Ituano,GOL,Transição Pós Lateral,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,28,3,52,2
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,54,9,54,24
+Ituano,GOL,RecNCA,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,53,21,24,25
+Rio Claro,GOL,Rec,rioclaro_ituano\rioclaro_ituano_80_81_2.csv,25,31,25,31
+Rio Claro,GOL,1ª Bola,rioclaro_ituano\rioclaro_ituano_81_82_2.csv,24,52,24,52
+Ituano,GOL,Lateral,rioclaro_ituano\rioclaro_ituano_82_83_2.csv,48,78,48,78
+Rio Claro,GOL,Finalização,rioclaro_ituano\rioclaro_ituano_82_83_2.csv,86,21,86,21
+Rio Claro,GOL,Gol,rioclaro_ituano\rio_claro_ituano_83_84_2.csv,110,45,110,45
+Ituano,GOL,Lateral,rioclaro_ituano\rio_claro_ituano_84_85_2.csv,24,78,24,78
+Ituano,GOL,Transição Pós Lateral,rioclaro_ituano\rio_claro_ituano_84_85_2.csv,21,59,32,59
+Rio Claro,GOL,RecNCA,rioclaro_ituano\rio_claro_ituano_84_85_2.csv,41,74,59,60
+Ituano,GOL,RecNCA,rioclaro_ituano\rio_claro_ituano_84_85_2.csv,65,59,25,63
