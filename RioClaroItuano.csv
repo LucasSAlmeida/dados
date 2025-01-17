@@ -1,85 +1,85 @@
-﻿Time;Estatística;Valor;Tempo;Rodada
-Ituano;Posse de Bola;44;1;1
-Ituano;Finalizações;3;1;1
-Ituano;Finalizações no gol;0;1;1
-Ituano;Faltas;9;1;1
-Ituano;Chegadas no Último Terço;10;1;1
-Ituano;Chegadas Efetivas Esquerda;2;1;1
-Ituano;Chegadas Efetivas Centro;2;1;1
-Ituano;Chegadas Efetivas Direita;1;1;1
-Ituano;Chegadas Esquerda;5;1;1
-Ituano;Chegadas Centro;2;1;1
-Ituano;Chegadas Direita;3;1;1
-Ituano;Escanteio;3;1;1
-Ituano;Primeira Bola;10;1;1
-Ituano;Segunda Bola;3;1;1
-Rio Claro;Posse de Bola;56;1;1
-Rio Claro;Finalizações;8;1;1
-Rio Claro;Finalizações no gol;3;1;1
-Rio Claro;Faltas;4;1;1
-Rio Claro;Chegadas no Último Terço;12;1;1
-Rio Claro;Chegadas Efetivas Esquerda;2;1;1
-Rio Claro;Chegadas Efetivas Centro;1;1;1
-Rio Claro;Chegadas Efetivas Direita;1;1;1
-Rio Claro;Chegadas Esquerda;4;1;1
-Rio Claro;Chegadas Centro;2;1;1
-Rio Claro;Chegadas Direita;6;1;1
-Rio Claro;Escanteio;1;1;1
-Rio Claro;Primeira Bola;6;1;1
-Rio Claro;Segunda Bola;4;1;1
-Ituano;Posse de Bola;41;2;1
-Ituano;Finalizações;9;2;1
-Ituano;Finalizações no gol;5;2;1
-Ituano;Faltas;3;2;1
-Ituano;Chegadas no Último Terço;10;2;1
-Ituano;Chegadas Efetivas Esquerda;2;2;1
-Ituano;Chegadas Efetivas Centro;1;2;1
-Ituano;Chegadas Efetivas Direita;1;2;1
-Ituano;Chegadas Esquerda;7;2;1
-Ituano;Chegadas Centro;1;2;1
-Ituano;Chegadas Direita;2;2;1
-Ituano;Escanteio;3;2;1
-Ituano;Primeira Bola;6;2;1
-Ituano;Segunda Bola;0;2;1
-Rio Claro;Posse de Bola;59;2;1
-Rio Claro;Finalizações;7;2;1
-Rio Claro;Finalizações no gol;2;2;1
-Rio Claro;Faltas;5;2;1
-Rio Claro;Chegadas no Último Terço;23;2;1
-Rio Claro;Chegadas Efetivas Esquerda;2;2;1
-Rio Claro;Chegadas Efetivas Centro;1;2;1
-Rio Claro;Chegadas Efetivas Direita;4;2;1
-Rio Claro;Chegadas Esquerda;6;2;1
-Rio Claro;Chegadas Centro;7;2;1
-Rio Claro;Chegadas Direita;10;2;1
-Rio Claro;Escanteio;5;2;1
-Rio Claro;Primeira Bola;6;2;1
-Rio Claro;Segunda Bola;5;2;1
-Ituano;Posse de Bola;42;Geral;1
-Ituano;Finalizações;11;Geral;1
-Ituano;Finalizações no gol;5;Geral;1
-Ituano;Faltas;12;Geral;1
-Ituano;Chegadas no Último Terço;20;Geral;1
-Ituano;Chegadas Efetivas Esquerda;4;Geral;1
-Ituano;Chegadas Efetivas Centro;3;Geral;1
-Ituano;Chegadas Efetivas Direita;2;Geral;1
-Ituano;Chegadas Esquerda;12;Geral;1
-Ituano;Chegadas Centro;3;Geral;1
-Ituano;Chegadas Direita;5;Geral;1
-Ituano;Escanteio;6;Geral;1
-Ituano;Primeira Bola;16;Geral;1
-Ituano;Segunda Bola;3;Geral;1
-Rio Claro;Posse de Bola;58;Geral;1
-Rio Claro;Finalizações;13;Geral;1
-Rio Claro;Finalizações no gol;6;Geral;1
-Rio Claro;Faltas;9;Geral;1
-Rio Claro;Chegadas no Último Terço;35;Geral;1
-Rio Claro;Chegadas Efetivas Esquerda;4;Geral;1
-Rio Claro;Chegadas Efetivas Centro;2;Geral;1
-Rio Claro;Chegadas Efetivas Direita;5;Geral;1
-Rio Claro;Chegadas Esquerda;10;Geral;1
-Rio Claro;Chegadas Centro;9;Geral;1
-Rio Claro;Chegadas Direita;16;Geral;1
-Rio Claro;Escanteio;6;Geral;1
-Rio Claro;Primeira Bola;12;Geral;1
-Rio Claro;Segunda Bola;9;Geral;1
+﻿Time,Estatística,Valor,Tempo,Rodada
+Ituano,Posse de Bola,44,1,1
+Ituano,Finalizações,3,1,1
+Ituano,Finalizações no gol,0,1,1
+Ituano,Faltas,9,1,1
+Ituano,Chegadas no Último Terço,10,1,1
+Ituano,Chegadas Efetivas Esquerda,2,1,1
+Ituano,Chegadas Efetivas Centro,2,1,1
+Ituano,Chegadas Efetivas Direita,1,1,1
+Ituano,Chegadas Esquerda,5,1,1
+Ituano,Chegadas Centro,2,1,1
+Ituano,Chegadas Direita,3,1,1
+Ituano,Escanteio,3,1,1
+Ituano,Primeira Bola,10,1,1
+Ituano,Segunda Bola,3,1,1
+Rio Claro,Posse de Bola,56,1,1
+Rio Claro,Finalizações,8,1,1
+Rio Claro,Finalizações no gol,3,1,1
+Rio Claro,Faltas,4,1,1
+Rio Claro,Chegadas no Último Terço,12,1,1
+Rio Claro,Chegadas Efetivas Esquerda,2,1,1
+Rio Claro,Chegadas Efetivas Centro,1,1,1
+Rio Claro,Chegadas Efetivas Direita,1,1,1
+Rio Claro,Chegadas Esquerda,4,1,1
+Rio Claro,Chegadas Centro,2,1,1
+Rio Claro,Chegadas Direita,6,1,1
+Rio Claro,Escanteio,1,1,1
+Rio Claro,Primeira Bola,6,1,1
+Rio Claro,Segunda Bola,4,1,1
+Ituano,Posse de Bola,41,2,1
+Ituano,Finalizações,9,2,1
+Ituano,Finalizações no gol,5,2,1
+Ituano,Faltas,3,2,1
+Ituano,Chegadas no Último Terço,10,2,1
+Ituano,Chegadas Efetivas Esquerda,2,2,1
+Ituano,Chegadas Efetivas Centro,1,2,1
+Ituano,Chegadas Efetivas Direita,1,2,1
+Ituano,Chegadas Esquerda,7,2,1
+Ituano,Chegadas Centro,1,2,1
+Ituano,Chegadas Direita,2,2,1
+Ituano,Escanteio,3,2,1
+Ituano,Primeira Bola,6,2,1
+Ituano,Segunda Bola,0,2,1
+Rio Claro,Posse de Bola,59,2,1
+Rio Claro,Finalizações,7,2,1
+Rio Claro,Finalizações no gol,2,2,1
+Rio Claro,Faltas,5,2,1
+Rio Claro,Chegadas no Último Terço,23,2,1
+Rio Claro,Chegadas Efetivas Esquerda,2,2,1
+Rio Claro,Chegadas Efetivas Centro,1,2,1
+Rio Claro,Chegadas Efetivas Direita,4,2,1
+Rio Claro,Chegadas Esquerda,6,2,1
+Rio Claro,Chegadas Centro,7,2,1
+Rio Claro,Chegadas Direita,10,2,1
+Rio Claro,Escanteio,5,2,1
+Rio Claro,Primeira Bola,6,2,1
+Rio Claro,Segunda Bola,5,2,1
+Ituano,Posse de Bola,42,Geral,1
+Ituano,Finalizações,11,Geral,1
+Ituano,Finalizações no gol,5,Geral,1
+Ituano,Faltas,12,Geral,1
+Ituano,Chegadas no Último Terço,20,Geral,1
+Ituano,Chegadas Efetivas Esquerda,4,Geral,1
+Ituano,Chegadas Efetivas Centro,3,Geral,1
+Ituano,Chegadas Efetivas Direita,2,Geral,1
+Ituano,Chegadas Esquerda,12,Geral,1
+Ituano,Chegadas Centro,3,Geral,1
+Ituano,Chegadas Direita,5,Geral,1
+Ituano,Escanteio,6,Geral,1
+Ituano,Primeira Bola,16,Geral,1
+Ituano,Segunda Bola,3,Geral,1
+Rio Claro,Posse de Bola,58,Geral,1
+Rio Claro,Finalizações,13,Geral,1
+Rio Claro,Finalizações no gol,6,Geral,1
+Rio Claro,Faltas,9,Geral,1
+Rio Claro,Chegadas no Último Terço,35,Geral,1
+Rio Claro,Chegadas Efetivas Esquerda,4,Geral,1
+Rio Claro,Chegadas Efetivas Centro,2,Geral,1
+Rio Claro,Chegadas Efetivas Direita,5,Geral,1
+Rio Claro,Chegadas Esquerda,10,Geral,1
+Rio Claro,Chegadas Centro,9,Geral,1
+Rio Claro,Chegadas Direita,16,Geral,1
+Rio Claro,Escanteio,6,Geral,1
+Rio Claro,Primeira Bola,12,Geral,1
+Rio Claro,Segunda Bola,9,Geral,1
